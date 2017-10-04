@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application>
+  <component name="libraryTable">
+    <library name="Puppet modules">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.puppet/modules" />
+        <root url="file:///usr/share/puppet/modules" />
+        <root url="file:///opt/puppet/share/puppet/modules" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/puppet/lib/stubs" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="sass-stdlib">
+      <CLASSES>
+        <root url="file://$APPLICATION_HOME_DIR$/plugins/sass/lib/stubs/sass_functions.scss" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
+
