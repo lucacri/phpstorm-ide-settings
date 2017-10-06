@@ -29,6 +29,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cloudinit" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="d/99-web-folder" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
