@@ -3,38 +3,39 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping pattern="99-web-folder" type="Bash" />
+      <mapping ext="script" type="Bash" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping ext="vue" type="HTML" />
-      <mapping pattern="vultr-cloudinit-worked" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
-      <mapping pattern="digitalocean-swarm-cloudinit" type="PLAIN_TEXT" />
-      <mapping pattern="hartU5amE" type="PLAIN_TEXT" />
-      <mapping pattern="vultr-cloudinit" type="PLAIN_TEXT" />
-      <mapping pattern="start/run" type="PLAIN_TEXT" />
-      <mapping pattern="vultr-live-script" type="PLAIN_TEXT" />
-      <mapping pattern="phpcron" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit2" type="PLAIN_TEXT" />
-      <mapping pattern="start_time" type="PLAIN_TEXT" />
-      <mapping pattern="cron" type="PLAIN_TEXT" />
-      <mapping pattern="pptcron" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="ea9a2ea9640a1296e46f110037c4e22994d7e27b" type="PLAIN_TEXT" />
-      <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />
-      <mapping pattern="02-mine" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
+      <mapping pattern="vultr-cloudinit-worked" type="PLAIN_TEXT" />
+      <mapping pattern="ea9a2ea9640a1296e46f110037c4e22994d7e27b" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="pptcron" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="vultr-cloudinit" type="PLAIN_TEXT" />
+      <mapping pattern="phpcron" type="PLAIN_TEXT" />
+      <mapping pattern="vultr-live-script" type="PLAIN_TEXT" />
+      <mapping pattern="02-mine" type="PLAIN_TEXT" />
+      <mapping pattern="hartU5amE" type="PLAIN_TEXT" />
+      <mapping pattern="start/run" type="PLAIN_TEXT" />
+      <mapping pattern="digitalocean-swarm-cloudinit" type="PLAIN_TEXT" />
+      <mapping pattern="known_hosts" type="PLAIN_TEXT" />
+      <mapping pattern="cron" type="PLAIN_TEXT" />
+      <mapping pattern="start_time" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-cloudinit" type="PLAIN_TEXT" />
+      <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />
       <mapping ext="d/queue/run" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cloudinit" type="PLAIN_TEXT" />
+      <mapping ext="partial" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="d/99-web-folder" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="partial" type="PLAIN_TEXT" />
       <mapping ext="d/pptcron" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
     </extensionMap>
