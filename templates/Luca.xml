@@ -15,4 +15,11 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="phptest" value="/**&#10;* $TEST_NAME$&#10;**/&#10;public function test_$TEST_BETTER$(){&#10;    $END$&#10;}&#10;" description="PHPUnit test" toReformat="true" toShortenFQNames="true">
+    <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEST_BETTER" expression="snakeCase(TEST_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
