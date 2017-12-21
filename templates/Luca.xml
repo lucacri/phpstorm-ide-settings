@@ -1,0 +1,16 @@
+<templateSet group="Luca">
+  <template name="b4-input" value="&lt;div class=&quot;form-group&quot;&gt;&#10;                            &lt;label for=&quot;title&quot;&gt;Title&lt;/label&gt;&#10;                            &lt;input type=&quot;text&quot;&#10;                                   class=&quot;form-control {{ $errors-&gt;has('title') ? 'is-invalid':'' }}&quot; name=&quot;title&quot;&#10;                                   required&#10;                                   placeholder=&quot;The title of the file&quot;/&gt;&#10;                            &lt;div class=&quot;invalid-feedback&quot;&gt;&#10;                                {{ $errors-&gt;get('title') }}&#10;                            &lt;/div&gt;&#10;                        &lt;/div&gt;" description="Input with validation" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="Twig" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="Vue" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
