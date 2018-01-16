@@ -3,6 +3,7 @@
     <notification groupId="Database editor log" displayType="NONE" />
     <notification groupId="Database execution log" displayType="NONE" shouldLog="false" />
     <notification groupId="Database view" displayType="TOOL_WINDOW" />
+    <notification groupId="Debugger" displayType="NONE" shouldLog="false" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
     <notification groupId="File Watcher Messages" displayType="STICKY_BALLOON" />
     <notification groupId="Git Important Messages" displayType="STICKY_BALLOON" />
