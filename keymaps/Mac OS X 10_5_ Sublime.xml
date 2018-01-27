@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
