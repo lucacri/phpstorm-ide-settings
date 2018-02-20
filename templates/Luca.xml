@@ -22,4 +22,21 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="faicon" value="&lt;font-awesome-icon icon=&quot;$FIELD$&quot;&gt;&lt;/font-awesome-icon&gt;" description="Font awesom icon vue" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="faicons" value="&lt;font-awesome-icon :icon=&quot;['$FIELD$', '$FIELD2$']&quot;&gt;&lt;/font-awesome-icon&gt;" description="Font awesom icons vue" toReformat="true" toShortenFQNames="true">
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>

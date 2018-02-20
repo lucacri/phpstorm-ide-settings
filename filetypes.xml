@@ -6,6 +6,8 @@
       <mapping ext="script" type="Bash" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping ext="vue" type="HTML" />
+      <mapping pattern="tmp/compiledstuff/artisan" type="PLAIN_TEXT" />
+      <mapping pattern="02-mine" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit2" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit-worked" type="PLAIN_TEXT" />
@@ -17,7 +19,6 @@
       <mapping pattern="vultr-cloudinit" type="PLAIN_TEXT" />
       <mapping pattern="phpcron" type="PLAIN_TEXT" />
       <mapping pattern="vultr-live-script" type="PLAIN_TEXT" />
-      <mapping pattern="02-mine" type="PLAIN_TEXT" />
       <mapping pattern="hartU5amE" type="PLAIN_TEXT" />
       <mapping pattern="start/run" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-swarm-cloudinit" type="PLAIN_TEXT" />
@@ -26,7 +27,6 @@
       <mapping pattern="start_time" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-cloudinit" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />
-      <mapping ext="d/queue/run" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="cloudinit" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
@@ -36,8 +36,11 @@
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="d/queue/run" type="PLAIN_TEXT" />
       <mapping ext="d/pptcron" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <removed_mapping ext="vue" type="Vue.js" />
     </extensionMap>
   </component>
 </application>
