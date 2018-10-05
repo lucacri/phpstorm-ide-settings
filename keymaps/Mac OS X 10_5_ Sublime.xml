@@ -12,9 +12,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
-  <action id="CloseAllEditorsButActive">
-    <keyboard-shortcut first-keystroke="meta alt w" />
-  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
@@ -33,6 +30,8 @@
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCodeBlockEndWithSelection" />
+  <action id="EditorCodeBlockStartWithSelection" />
   <action id="EditorStartNewLineBefore" />
   <action id="FileChooser.NewFolder" />
   <action id="FileChooser.TogglePathShowing" />
@@ -46,12 +45,27 @@
   </action>
   <action id="GotoBookmark3" />
   <action id="IntroduceParameter" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="shift meta alt u" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
   </action>
   <action id="ParameterInfo" />
   <action id="PhpGeneratePhpDocBlocks">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -80,6 +94,7 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
+  <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
