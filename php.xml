@@ -1,13 +1,11 @@
 <application>
   <component name="MessDetector">
-    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="$USER_HOME$/.composer/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs---" />
     </phpcs_settings>
