@@ -1,0 +1,14 @@
+<application>
+  <component name="KeyPromoterXStatistic">
+    <option name="statistics">
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+    </option>
+  </component>
+</application>
