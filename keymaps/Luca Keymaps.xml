@@ -1,8 +1,16 @@
 <keymap version="1" name="Luca Keymaps" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
+  <action id="ChangesView.UnshelveSilently" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorToggleCase" />
+  <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="alt r" />
@@ -15,4 +23,13 @@
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowUmlDiagramPopup" />
 </keymap>
