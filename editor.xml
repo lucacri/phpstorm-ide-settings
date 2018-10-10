@@ -5,8 +5,9 @@
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\:\s.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingEnabled" value="false" />
