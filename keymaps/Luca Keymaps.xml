@@ -15,6 +15,9 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="alt o" />
@@ -25,6 +28,9 @@
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
