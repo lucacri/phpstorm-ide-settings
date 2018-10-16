@@ -9,6 +9,7 @@
   </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
@@ -35,6 +36,10 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="shift meta u" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowUmlDiagramPopup" />
