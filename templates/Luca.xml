@@ -39,4 +39,10 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="jesttest" value="test('$TESTNAME$', () =&gt; {&#10;    $END$&#10;})" description="Jest Test" toReformat="false" toShortenFQNames="true">
+    <variable name="TESTNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
