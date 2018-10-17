@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'⇧⌘F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move Right">
         <Item>
           <IdeaActionID>MoveTabRight</IdeaActionID>
@@ -17,11 +25,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Parameter Info">
+        <Item>
+          <IdeaActionID>ParameterInfo</IdeaActionID>
+          <ShortCut>'⌘P'</ShortCut>
+          <Description>Parameter Info</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Submit</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
