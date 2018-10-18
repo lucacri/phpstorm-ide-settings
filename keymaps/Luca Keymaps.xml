@@ -36,7 +36,7 @@
     <keyboard-shortcut first-keystroke="meta alt o" />
     <keyboard-shortcut first-keystroke="meta alt p" />
   </action>
-  <action id="MoveTabRight">
+  <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
   <action id="NewElement">
