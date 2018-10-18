@@ -39,6 +39,9 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift meta alt u" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -52,5 +55,6 @@
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
 </keymap>
