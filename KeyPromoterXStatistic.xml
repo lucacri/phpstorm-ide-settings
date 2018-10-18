@@ -41,6 +41,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Hide Active Tool Window">
+        <Item>
+          <IdeaActionID>HideActiveWindow</IdeaActionID>
+          <ShortCut>'⇧⎋' or '⌘W'</ShortCut>
+          <Description>Hide Active Tool Window</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Move Right">
         <Item>
           <IdeaActionID>MoveTabRight</IdeaActionID>
