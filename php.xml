@@ -16,15 +16,15 @@
     <interpreters>
       <interpreter home="/usr/local/bin" id="15cafcc1-e649-4eb3-8f8d-2cf80c32e60b" name="php5.4.9 brew" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/bin/php" id="cdcb8889-10c1-46bd-84d4-30b8700e05ae" name="Current" debugger_id="php.debugger.XDebug" />
-      <interpreter home="$USER_HOME$/.phpbrew/php/php-7.2.7/bin/php" id="c3fe3c03-e514-4f8d-b6a3-00a9366a8262" name="PHP 7.2 phpbrew" debugger_id="php.debugger.XDebug" />
+      <interpreter home="$USER_HOME$/.phpbrew/php/php-7.2.11/bin/php" id="c3fe3c03-e514-4f8d-b6a3-00a9366a8262" name="PHP 7.2 phpbrew" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 7.2 phpbrew">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-7.2.7/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-7.2.7/bin/php" path_separator=":" version="7.2.7">
-          <additional_php_ini>$USER_HOME$/.phpbrew/php/php-7.2.7/var/db/gd.ini, /Users/lucacri/.phpbrew/php/php-7.2.7/var/db/iconv.ini, /Users/lucacri/.phpbrew/php/php-7.2.7/var/db/opcache.ini, /Users/lucacri/.phpbrew/php/php-7.2.7/var/db/soap.ini</additional_php_ini>
-          <configuration_file>$USER_HOME$/.phpbrew/php/php-7.2.7/etc/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-7.2.11/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-7.2.11/bin/php" path_separator=":" version="7.2.11">
+          <additional_php_ini>$USER_HOME$/.phpbrew/php/php-7.2.11/var/db/gd.ini, /Users/lucacri/.phpbrew/php/php-7.2.11/var/db/opcache.ini</additional_php_ini>
+          <configuration_file>$USER_HOME$/.phpbrew/php/php-7.2.11/etc/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -68,7 +68,7 @@
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="$USER_HOME$/.phpbrew/php/php-7.2.7/lib/php/extensions/no-debug-non-zts-20170718" />
+            <configuration_option name="extension_dir" value="$USER_HOME$/.phpbrew/php/php-7.2.11/lib/php/extensions/no-debug-non-zts-20170718" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -88,7 +88,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Users/lucacri/.phpbrew/php/php-7.2.7/lib/php/pear" />
+            <configuration_option name="include_path" value=".:/Users/lucacri/.phpbrew/php/php-7.2.11/lib/php/pear" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="log_errors" value="1" />
@@ -230,11 +230,6 @@
             <configuration_option name="session.use_trans_sid" value="0" />
             <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
-            <configuration_option name="soap.wsdl_cache" value="1" />
-            <configuration_option name="soap.wsdl_cache_dir" value="/tmp" />
-            <configuration_option name="soap.wsdl_cache_enabled" value="1" />
-            <configuration_option name="soap.wsdl_cache_limit" value="5" />
-            <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
             <configuration_option name="sqlite3.extension_dir" value="" />
             <configuration_option name="sys_temp_dir" value="" />
             <configuration_option name="track_errors" value="0" />
@@ -297,7 +292,6 @@
             <extension name="readline" />
             <extension name="session" />
             <extension name="shmop" />
-            <extension name="soap" />
             <extension name="sockets" />
             <extension name="sqlite3" />
             <extension name="standard" />
