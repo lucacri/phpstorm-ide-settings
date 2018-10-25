@@ -17,20 +17,28 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Database</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find">
+        <Item>
+          <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
+          <ShortCut>'⌘3'</ShortCut>
+          <Description>Find</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find Usages">
         <Item>
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
           <Count>5</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Find in Path...">
-        <Item>
-          <IdeaActionID>FindInPath</IdeaActionID>
-          <ShortCut>'⇧⌘F'</ShortCut>
-          <Description>Find in Path...</Description>
-          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -150,6 +158,16 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'⇧⌘F'</ShortCut>
+          <Description>Find in Path...</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
