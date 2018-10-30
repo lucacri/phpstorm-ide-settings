@@ -86,7 +86,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -127,6 +127,14 @@
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="SQL Generator...">
+        <Item>
+          <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
+          <ShortCut>'⌥⌘G'</ShortCut>
+          <Description>SQL Generator...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">

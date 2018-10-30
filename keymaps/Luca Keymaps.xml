@@ -8,6 +8,10 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+    <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase" />
