@@ -6,7 +6,6 @@
       <mapping ext="script" type="Bash" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern="vultr-cloudinit-worked" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-swarm-cloudinit" type="PLAIN_TEXT" />
