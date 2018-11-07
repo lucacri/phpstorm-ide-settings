@@ -468,10 +468,7 @@
       </value>
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
-      <value>
-        <option name="BACKGROUND" value="35362c" />
-        <option name="EFFECT_COLOR" value="4a4848" />
-      </value>
+      <value />
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
@@ -566,14 +563,12 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="cf10e6" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
     <option name="JS.LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -589,7 +584,6 @@
         <option name="FOREGROUND" value="f72671" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.PARENTHS">
       <value>
         <option name="FOREGROUND" value="ffffff" />

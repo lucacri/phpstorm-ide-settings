@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌘2'</ShortCut>
           <Description>Database</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -158,7 +158,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -249,6 +249,14 @@
           <ShortCut>'⇧⌘F10'</ShortCut>
           <Description>Jump to Console...</Description>
           <Count>22</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move To Opposite Group">
+        <Item>
+          <IdeaActionID>MoveEditorToOppositeTabGroup</IdeaActionID>
+          <ShortCut>'⌥⌘U'</ShortCut>
+          <Description>Move To Opposite Group</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
