@@ -39,10 +39,17 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="jesttest" value="test('$TESTNAME$', () =&gt; {&#10;    $END$&#10;})" description="Jest Test" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="test('$TESTNAME$', () =&gt; {&#10;    $END$&#10;})" description="Jest Test" toReformat="false" toShortenFQNames="true">
     <variable name="TESTNAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="scope" value="/**&#10;*  $SCOPE_NAME$&#10;*&#10;* @param \Illuminate\Database\Eloquent\Builder $query&#10;* &#10;* @return \Illuminate\Database\Eloquent\Builder&#10;**/&#10;public function $SCOPE_BETTER$($query){&#10;   return $query-&gt;$END$&#10;}&#10;" description="Laravel Model Scope" toReformat="false" toShortenFQNames="true">
+    <variable name="SCOPE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SCOPE_BETTER" expression="camelCase(concat(&quot;scope&quot;, &quot; &quot;, SCOPE_NAME))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Class Member" value="true" />
     </context>
   </template>
 </templateSet>
