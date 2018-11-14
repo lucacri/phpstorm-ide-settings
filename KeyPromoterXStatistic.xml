@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Auto-Indent Lines">
+        <Item>
+          <IdeaActionID>AutoIndentLines</IdeaActionID>
+          <ShortCut>'⌃⌥I'</ShortCut>
+          <Description>Auto-Indent Lines</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare With...">
         <Item>
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
