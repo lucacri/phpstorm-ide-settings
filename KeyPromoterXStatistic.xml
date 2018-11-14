@@ -17,6 +17,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add rule">
+        <Item>
+          <IdeaActionID>Arrangement.Rule.Add</IdeaActionID>
+          <ShortCut>'⌘N'</ShortCut>
+          <Description>Add rule</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Compare With...">
         <Item>
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
