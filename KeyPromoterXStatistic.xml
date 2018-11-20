@@ -33,6 +33,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Clone Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Clone Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit Message History">
         <Item>
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
@@ -241,6 +249,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Set NULL">
+        <Item>
+          <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
+          <ShortCut>'⌥⌘N'</ShortCut>
+          <Description>Set NULL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Diff">
         <Item>
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
@@ -254,7 +270,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
