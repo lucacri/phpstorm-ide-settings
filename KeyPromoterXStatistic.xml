@@ -81,14 +81,6 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Database">
-        <Item>
-          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
-          <ShortCut>'⌘2'</ShortCut>
-          <Description>Database</Description>
-          <Count>19</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -142,7 +134,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>31</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -297,6 +289,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'⌥F12' or '⌘3'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
@@ -321,6 +321,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <ShortCut>'⌘2'</ShortCut>
+          <Description>Database</Description>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
