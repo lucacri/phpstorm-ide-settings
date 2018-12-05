@@ -233,11 +233,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'⇧F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Replace in Path...">
         <Item>
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -263,6 +279,14 @@
           <ShortCut>'⌥⌘N'</ShortCut>
           <Description>Set NULL</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show All Affected Files">
+        <Item>
+          <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
+          <ShortCut>'⌃⌘A'</ShortCut>
+          <Description>Show All Affected Files</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
