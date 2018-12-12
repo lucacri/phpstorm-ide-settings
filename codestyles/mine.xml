@@ -1,7 +1,9 @@
 <code_scheme name="mine" version="173">
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
+    <option name="HTML_KEEP_BLANK_LINES" value="1" />
     <option name="HTML_ALIGN_TEXT" value="true" />
+    <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
