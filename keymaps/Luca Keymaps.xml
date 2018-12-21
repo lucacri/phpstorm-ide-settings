@@ -5,10 +5,15 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+    <keyboard-shortcut first-keystroke="meta alt 3" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase" />
   <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
@@ -21,13 +26,33 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="meta o" />
     <keyboard-shortcut first-keystroke="alt o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="meta l" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="MoveTabRight">
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="meta alt p" />
+  </action>
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta alt u" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -36,6 +61,12 @@
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
+  <action id="ParameterInfo" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta alt enter" />
+  </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
 </keymap>

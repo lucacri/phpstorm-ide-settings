@@ -1,6 +1,7 @@
 <application>
-  <component name="DatabaseSettings" version="3">
+  <component name="DatabaseSettings" version="4">
     <option name="page-size" value="5000" />
+    <option name="always-review-parameters" value="false" />
     <text-mode in-scripts="false">
       <parameter-patterns>
         <parameter-pattern value="\?\d*" />
@@ -10,15 +11,15 @@
         <parameter-pattern value="\$\{[^$\{\}]*\}" />
         <parameter-pattern value="\$(\w+)\$" scope="*,-PostgreSQL" />
         <parameter-pattern value="\#\w+\#" />
-        <parameter-pattern value="\?(\d+)" in-scripts="false" in-literals="false" />
-        <parameter-pattern value=":(\w+)" in-scripts="false" in-literals="false" scope="*,-PostgreSQL" />
-        <parameter-pattern value="%\w+" in-scripts="false" in-literals="false" scope="JAVA,Python" predefined="%name" />
-        <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="false" in-literals="false" predefined="${name}" />
-        <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="false" in-literals="false" predefined="$(name)" />
-        <parameter-pattern value="#(\w+)#" in-scripts="false" in-literals="false" scope="XML" predefined="#name#" />
-        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL" predefined="$a.b.c$?" />
-        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-scripts="false" in-literals="false" scope="*,-SQL" predefined="#a.b.c#?" />
-        <parameter-pattern value="%\((\w+)\)s" in-scripts="false" in-literals="false" scope="Python" predefined="%(name)s" />
+        <parameter-pattern value="\?(\d+)" in-literals="false" />
+        <parameter-pattern value=":(\w+)" in-literals="false" scope="*,-PostgreSQL" />
+        <parameter-pattern value="%\w+" in-literals="false" scope="JAVA,Python,PHP" predefined="%name" />
+        <parameter-pattern value="\$\{([^\{\}]*)\}" in-literals="false" predefined="${name}" />
+        <parameter-pattern value="\$\(([^\)]+)\)" in-literals="false" predefined="$(name)" />
+        <parameter-pattern value="#(\w+)#" in-literals="false" scope="XML" predefined="#name#" />
+        <parameter-pattern value="(?&lt;=\W|\A)\$(\d+|[a-zA-Z_](?:\w|\.)*)\$?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="$a.b.c$?" />
+        <parameter-pattern value="(?&lt;=\W|\A)#(\d+|[a-zA-Z_](?:\w|\.)*)#?(?=\W|\z)" in-literals="false" scope="*,-SQL" predefined="#a.b.c#?" />
+        <parameter-pattern value="%\((\w+)\)s" in-literals="false" scope="Python" predefined="%(name)s" />
       </parameter-patterns>
     </text-mode>
     <csv-formats>
