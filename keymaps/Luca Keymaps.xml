@@ -12,6 +12,7 @@
     <keyboard-shortcut first-keystroke="shift meta f10" />
     <keyboard-shortcut first-keystroke="meta alt 3" />
   </action>
+  <action id="DumpLookupElementWeights" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditorStartNewLineBefore" />
   <action id="EditorToggleCase" />
@@ -62,9 +63,15 @@
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PinActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta alt p" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta alt enter" />
+  </action>
+  <action id="Runner.CloseAllUnpinnedViews">
+    <keyboard-shortcut first-keystroke="shift meta alt w" />
   </action>
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowUmlDiagram" />
