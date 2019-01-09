@@ -150,7 +150,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>64</Count>
+          <Count>65</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -438,7 +438,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
