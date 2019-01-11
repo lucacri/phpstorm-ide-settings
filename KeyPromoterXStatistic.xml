@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close Active Task...">
+        <Item>
+          <IdeaActionID>tasks.close</IdeaActionID>
+          <ShortCut>'⌥⇧W'</ShortCut>
+          <Description>Close Active Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Commit Message History">
         <Item>
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
@@ -150,7 +158,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -222,6 +230,22 @@
           <IdeaActionID>MoveTabRight</IdeaActionID>
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Move Right</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open '#350: Operator &quot;In the last&quot; include &quot;today&quot;' In Browser">
+        <Item>
+          <IdeaActionID>tasks.open.in.browser</IdeaActionID>
+          <ShortCut>'⌥⇧B'</ShortCut>
+          <Description>Open '#350: Operator &quot;In the last&quot; include &quot;today&quot;' In Browser</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Task...">
+        <Item>
+          <IdeaActionID>tasks.goto</IdeaActionID>
+          <ShortCut>'⌥⇧N'</ShortCut>
+          <Description>Open Task...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -407,6 +431,14 @@
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
           <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Switch Task...">
+        <Item>
+          <IdeaActionID>tasks.switch</IdeaActionID>
+          <ShortCut>'⌥⇧T'</ShortCut>
+          <Description>Switch Task...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
