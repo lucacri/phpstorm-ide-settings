@@ -54,7 +54,7 @@
           <IdeaActionID>tasks.close</IdeaActionID>
           <ShortCut>'⌥⇧W'</ShortCut>
           <Description>Close Active Task...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
