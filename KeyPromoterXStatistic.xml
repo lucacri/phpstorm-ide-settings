@@ -41,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Clear Context">
+        <Item>
+          <IdeaActionID>context.clear</IdeaActionID>
+          <ShortCut>'⌥⇧X'</ShortCut>
+          <Description>Clear Context</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Clone Row">
         <Item>
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
@@ -54,7 +62,7 @@
           <IdeaActionID>tasks.close</IdeaActionID>
           <ShortCut>'⌥⇧W'</ShortCut>
           <Description>Close Active Task...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -246,7 +254,7 @@
           <IdeaActionID>tasks.goto</IdeaActionID>
           <ShortCut>'⌥⇧N'</ShortCut>
           <Description>Open Task...</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter Info">
@@ -270,7 +278,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -438,7 +446,7 @@
           <IdeaActionID>tasks.switch</IdeaActionID>
           <ShortCut>'⌥⇧T'</ShortCut>
           <Description>Switch Task...</Description>
-          <Count>3</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -470,7 +478,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>8</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
     </option>
