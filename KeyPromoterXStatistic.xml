@@ -166,7 +166,7 @@
           <IdeaActionID>DatabaseView.CopyDdlAction</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Generate DDL to Clipboard</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
