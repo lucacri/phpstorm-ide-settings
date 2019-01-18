@@ -13,5 +13,6 @@
     <notification groupId="Plugins Lifecycle Group" displayType="STICKY_BALLOON" />
     <notification groupId="Update Checker" displayType="STICKY_BALLOON" />
     <notification groupId="Upgrade Subscription Renewal" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" />
   </component>
 </application>
