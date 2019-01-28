@@ -377,14 +377,6 @@
           <Count>1</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Run">
-        <Item>
-          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
-          <ShortCut>'⌘4'</ShortCut>
-          <Description>Run</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="SQL Generator...">
         <Item>
           <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
@@ -561,6 +553,14 @@
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Move To Opposite Group</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
