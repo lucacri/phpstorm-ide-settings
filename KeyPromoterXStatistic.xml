@@ -41,6 +41,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Browse Console History">
+        <Item>
+          <IdeaActionID>Console.Jdbc.BrowseHistory</IdeaActionID>
+          <ShortCut>'⌥⌘E'</ShortCut>
+          <Description>Browse Console History</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Clear Context">
         <Item>
           <IdeaActionID>context.clear</IdeaActionID>
