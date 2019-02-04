@@ -486,7 +486,7 @@
           <IdeaActionID>tasks.switch</IdeaActionID>
           <ShortCut>'⌥⇧T'</ShortCut>
           <Description>Switch Task...</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
