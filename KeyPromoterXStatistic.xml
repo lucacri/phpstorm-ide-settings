@@ -385,6 +385,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Run NativeScript'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Run NativeScript'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
@@ -503,6 +511,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'PreviewEmailControllerTest.test_it_generates_the_email_for_a_fake_client'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Run NativeScript'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Run NativeScript'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
