@@ -342,7 +342,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>115</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -398,7 +398,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Run NativeScript'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -526,7 +526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Run NativeScript'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Submit">
@@ -534,7 +534,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Switch Task...">
