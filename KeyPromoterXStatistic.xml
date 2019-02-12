@@ -70,7 +70,7 @@
           <IdeaActionID>tasks.close</IdeaActionID>
           <ShortCut>'⌥⇧W'</ShortCut>
           <Description>Close Active Task...</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
