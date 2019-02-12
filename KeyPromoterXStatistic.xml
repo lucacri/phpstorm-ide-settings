@@ -190,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -446,7 +446,7 @@
           <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>SQL Generator...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
