@@ -366,7 +366,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
