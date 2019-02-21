@@ -190,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
