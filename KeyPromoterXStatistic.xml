@@ -9,12 +9,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Add">
+        <Item>
+          <IdeaActionID>Git.Add</IdeaActionID>
+          <ShortCut>'⌥⌘A'</ShortCut>
+          <Description>Add</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add New Row">
         <Item>
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'⌃⏎'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add rule">
@@ -33,12 +41,36 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Browse Console History">
+        <Item>
+          <IdeaActionID>Console.Jdbc.BrowseHistory</IdeaActionID>
+          <ShortCut>'⌥⌘E'</ShortCut>
+          <Description>Browse Console History</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Clear Context">
+        <Item>
+          <IdeaActionID>context.clear</IdeaActionID>
+          <ShortCut>'⌥⇧X'</ShortCut>
+          <Description>Clear Context</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Clone Row">
         <Item>
           <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Clone Row</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close Active Task...">
+        <Item>
+          <IdeaActionID>tasks.close</IdeaActionID>
+          <ShortCut>'⌥⇧W'</ShortCut>
+          <Description>Close Active Task...</Description>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -54,7 +86,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Compare With...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -62,7 +94,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -70,7 +102,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -94,7 +126,23 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5</Count>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'⌘⌫'</ShortCut>
+          <Description>Delete Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Rows">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'⌘⌫'</ShortCut>
+          <Description>Delete Rows</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -102,7 +150,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>9</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -134,7 +182,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>8</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -142,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>55</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -150,6 +198,14 @@
           <IdeaActionID>DatabaseView.CopyDdlAction</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Generate DDL to Clipboard</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate DDL to Console">
+        <Item>
+          <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
+          <ShortCut>'⌥⇧⌘B'</ShortCut>
+          <Description>Generate DDL to Console</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -182,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12' or '⇧⌘W'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -206,7 +262,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'⌘F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>17</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move Right">
@@ -215,6 +271,38 @@
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Move Right</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open '#350: Operator &quot;In the last&quot; include &quot;today&quot;' In Browser">
+        <Item>
+          <IdeaActionID>tasks.open.in.browser</IdeaActionID>
+          <ShortCut>'⌥⇧B'</ShortCut>
+          <Description>Open '#350: Operator &quot;In the last&quot; include &quot;today&quot;' In Browser</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open '#375: Mass edit the automations please' In Browser">
+        <Item>
+          <IdeaActionID>tasks.open.in.browser</IdeaActionID>
+          <ShortCut>'⌥⇧B'</ShortCut>
+          <Description>Open '#375: Mass edit the automations please' In Browser</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Task...">
+        <Item>
+          <IdeaActionID>tasks.goto</IdeaActionID>
+          <ShortCut>'⌥⇧N'</ShortCut>
+          <Description>Open Task...</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter Info">
@@ -230,7 +318,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -238,7 +326,23 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>8</Count>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Find Usages">
+        <Item>
+          <IdeaActionID>UsageView.ShowRecentFindUsages</IdeaActionID>
+          <ShortCut>'⌘E'</ShortCut>
+          <Description>Recent Find Usages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -246,7 +350,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>48</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -254,7 +358,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Remove</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -262,7 +366,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'⇧F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>3</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Replace in Path...">
@@ -270,7 +374,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>1</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -278,7 +382,15 @@
           <IdeaActionID>UsageView.Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun</Description>
-          <Count>1</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'GatherClientsTest.test_it_returns_one_user_with_today_s_birthday'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'GatherClientsTest.test_it_returns_one_user_with_today_s_birthday'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'PreviewEmailControllerTest.test_it_generates_the_email_for_a_fake_client'">
@@ -289,12 +401,52 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Run NativeScript'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Run NativeScript'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Restore Windows">
+        <Item>
+          <IdeaActionID>HideAllWindows</IdeaActionID>
+          <ShortCut>'⇧⌘F12' or '⇧⌘W'</ShortCut>
+          <Description>Restore Windows</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Revert...">
         <Item>
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Reword...">
+        <Item>
+          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
+          <ShortCut>'F2' or '⇧F6'</ShortCut>
+          <Description>Reword...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Run NativeScript'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Run NativeScript'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="SQL Generator...">
@@ -302,7 +454,7 @@
           <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>SQL Generator...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Safe Delete...">
@@ -310,7 +462,7 @@
           <IdeaActionID>SafeDelete</IdeaActionID>
           <ShortCut>'⌘⌦'</ShortCut>
           <Description>Safe Delete...</Description>
-          <Count>8</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Set NULL">
@@ -318,7 +470,7 @@
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
           <ShortCut>'⌥⌘N'</ShortCut>
           <Description>Set NULL</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show All Affected Files">
@@ -337,6 +489,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Over">
+        <Item>
+          <IdeaActionID>StepOver</IdeaActionID>
+          <ShortCut>'F8'</ShortCut>
+          <Description>Step Over</Description>
+          <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GatherClientsTest.test_it_returns_one_user_with_today_s_birthday'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GatherClientsTest.test_it_returns_one_user_with_today_s_birthday'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'PreviewEmailControllerTest'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -353,12 +529,28 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Run NativeScript'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Run NativeScript'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Submit">
         <Item>
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>19</Count>
+          <Count>96</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Switch Task...">
+        <Item>
+          <IdeaActionID>tasks.switch</IdeaActionID>
+          <ShortCut>'⌥⇧T'</ShortCut>
+          <Description>Switch Task...</Description>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -374,7 +566,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12' or '⌘3'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -382,7 +574,15 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>17</Count>
+          <Count>32</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="VCS Operations Popup...">
+        <Item>
+          <IdeaActionID>Vcs.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'⌃V'</ShortCut>
+          <Description>VCS Operations Popup...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -390,7 +590,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>4</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
     </option>
@@ -433,6 +633,14 @@
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Move To Opposite Group</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run">
+        <Item>
+          <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
+          <ShortCut>'⌘4'</ShortCut>
+          <Description>Run</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
