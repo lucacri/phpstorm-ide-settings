@@ -46,7 +46,7 @@
           <IdeaActionID>Console.Jdbc.BrowseHistory</IdeaActionID>
           <ShortCut>'⌥⌘E'</ShortCut>
           <Description>Browse Console History</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Clear Context">
