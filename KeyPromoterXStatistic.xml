@@ -86,7 +86,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'⌘D'</ShortCut>
           <Description>Compare With...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -350,7 +350,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Recent Find Usages">
@@ -574,7 +574,7 @@
           <IdeaActionID>tasks.switch</IdeaActionID>
           <ShortCut>'⌥⇧T'</ShortCut>
           <Description>Switch Task...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
