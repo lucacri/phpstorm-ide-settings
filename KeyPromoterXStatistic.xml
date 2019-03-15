@@ -54,7 +54,7 @@
           <IdeaActionID>context.clear</IdeaActionID>
           <ShortCut>'⌥⇧X'</ShortCut>
           <Description>Clear Context</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Clone Row">
