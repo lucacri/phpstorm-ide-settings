@@ -150,7 +150,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'⌘⌫'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -374,7 +374,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>139</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -566,7 +566,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>124</Count>
+          <Count>138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Switch Task...">
