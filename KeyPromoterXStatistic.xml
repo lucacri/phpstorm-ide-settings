@@ -206,7 +206,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>191</Count>
+          <Count>199</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate DDL to Clipboard">
@@ -342,7 +342,7 @@
           <IdeaActionID>PinActiveEditorTab</IdeaActionID>
           <ShortCut>'⌥⇧⌘P'</ShortCut>
           <Description>Pin Tab</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
