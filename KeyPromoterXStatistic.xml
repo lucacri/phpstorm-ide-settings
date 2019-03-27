@@ -294,7 +294,7 @@
           <IdeaActionID>Move</IdeaActionID>
           <ShortCut>'F6'</ShortCut>
           <Description>Move...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open '#350: Operator &quot;In the last&quot; include &quot;today&quot;' In Browser">
@@ -473,6 +473,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run...">
+        <Item>
+          <IdeaActionID>ChooseRunConfiguration</IdeaActionID>
+          <ShortCut>'⌃⌥R'</ShortCut>
+          <Description>Run...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="SQL Generator...">
         <Item>
           <IdeaActionID>DatabaseView.SqlGenerator</IdeaActionID>
@@ -527,6 +535,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'All'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'All'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'GatherClientsTest.test_it_returns_one_user_with_today_s_birthday'">
