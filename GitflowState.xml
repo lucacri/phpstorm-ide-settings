@@ -14,6 +14,7 @@
         <entry key="LOCAL-00371" value="bugfix/search_bar_gives_issues" />
         <entry key="LOCAL-00375" value="feature/studio_grow_page" />
         <entry key="LOCAL-00377" value="bugfix/fix_client_added_to_team" />
+        <entry key="LOCAL-00382" value="bugfix/cache_the_placeholders" />
       </map>
     </option>
   </component>
