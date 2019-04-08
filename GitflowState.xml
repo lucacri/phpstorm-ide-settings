@@ -16,6 +16,7 @@
         <entry key="LOCAL-00377" value="bugfix/fix_client_added_to_team" />
         <entry key="LOCAL-00382" value="bugfix/cache_the_placeholders" />
         <entry key="LOCAL-00387" value="feature/remove_update_at_and_save" />
+        <entry key="LOCAL-00396" value="feature/package_name_and_contract_name_filters" />
       </map>
     </option>
   </component>
