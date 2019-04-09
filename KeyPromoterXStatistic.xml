@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -118,6 +118,14 @@
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
           <ShortCut>'⌥⌘N'</ShortCut>
           <Description>Set NULL</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'GetClassVisitsTest.test_it_adds_a_fake_external_id_with_no_package_id_attached'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'GetClassVisitsTest.test_it_adds_a_fake_external_id_with_no_package_id_attached'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
