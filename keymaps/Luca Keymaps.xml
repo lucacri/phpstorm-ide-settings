@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
   <action id="Console.Open">
     <keyboard-shortcut first-keystroke="shift meta f10" />
     <keyboard-shortcut first-keystroke="meta alt 3" />
