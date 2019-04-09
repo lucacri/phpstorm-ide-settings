@@ -1,5 +1,7 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/bin/zsh" />
+    <envs>
+      <env key="CACHE_DRIVER" value="array" />
+    </envs>
   </component>
 </application>
