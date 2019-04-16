@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Configure Current File Analysis...">
+        <Item>
+          <IdeaActionID>PopupHector</IdeaActionID>
+          <ShortCut>'⌥⇧⌘H'</ShortCut>
+          <Description>Configure Current File Analysis...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
@@ -86,7 +94,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reload Page">
@@ -151,6 +159,14 @@
           <ShortCut>'⌥⌘N'</ShortCut>
           <Description>Set NULL</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Reformat File Dialog">
+        <Item>
+          <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
+          <ShortCut>'⌥⇧⌘L'</ShortCut>
+          <Description>Show Reformat File Dialog</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'ClubreadyImportStatusTest.test_it_works_on_clients_data'">
