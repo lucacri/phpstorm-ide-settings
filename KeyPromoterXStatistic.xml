@@ -86,7 +86,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -126,7 +126,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>235</Count>
+          <Count>239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -190,7 +190,7 @@
           <IdeaActionID>Console.TableResult.SetNull</IdeaActionID>
           <ShortCut>'⌥⌘N'</ShortCut>
           <Description>Set NULL</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Reformat File Dialog">
@@ -222,7 +222,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
