@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/App/Listeners/Team/Members/AddTeamMemberToAllUsersTest.php [HelloManagers-CRM]'" />
-    <option name="defaultScopeName" value="File '.../tests/App/Listeners/Team/Members/AddTeamMemberToAllUsersTest.php [HelloManagers-CRM]'" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/App/Listeners/Team/Members/AddTeamMemberToAllUsersTest.php [HelloManagers-CRM]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
