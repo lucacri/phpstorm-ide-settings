@@ -12,6 +12,7 @@
         <entry key="2062" value="feature/#491" />
         <entry key="2066" value="feature/#494" />
         <entry key="2070" value="feature/#496" />
+        <entry key="2072" value="feature/#498" />
         <entry key="LOCAL-00342" value="feature/tessss" />
         <entry key="LOCAL-00358" value="hotfix/all_users_issue" />
         <entry key="LOCAL-00359" value="feature/Finish_up_with_nova_for_Lise" />
@@ -22,6 +23,8 @@
         <entry key="LOCAL-00387" value="feature/remove_update_at_and_save" />
         <entry key="LOCAL-00396" value="feature/package_name_and_contract_name_filters" />
         <entry key="LOCAL-00402" value="feature/7_day_trial" />
+        <entry key="LOCAL-00447" value="feature/320_char_limit_on_sms" />
+        <entry key="LOCAL-00449" value="feature/don't_refresh_audience_when_changing_name_in_automation" />
       </map>
     </option>
   </component>
