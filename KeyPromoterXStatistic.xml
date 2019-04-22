@@ -126,7 +126,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>263</Count>
+          <Count>271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
