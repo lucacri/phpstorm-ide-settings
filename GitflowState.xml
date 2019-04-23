@@ -28,6 +28,7 @@
         <entry key="LOCAL-00447" value="feature/320_char_limit_on_sms" />
         <entry key="LOCAL-00449" value="feature/don't_refresh_audience_when_changing_name_in_automation" />
         <entry key="LOCAL-00450" value="feature/filters_based_on_provider" />
+        <entry key="LOCAL-00467" value="feature/track_changes" />
       </map>
     </option>
   </component>
