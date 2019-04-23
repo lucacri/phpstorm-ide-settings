@@ -30,6 +30,7 @@
         <entry key="LOCAL-00449" value="feature/don't_refresh_audience_when_changing_name_in_automation" />
         <entry key="LOCAL-00450" value="feature/filters_based_on_provider" />
         <entry key="LOCAL-00467" value="feature/track_changes" />
+        <entry key="LOCAL-00471" value="feature/add_time_to_classes" />
       </map>
     </option>
   </component>
