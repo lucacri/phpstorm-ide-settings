@@ -8,6 +8,9 @@
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
   <action id="ChangesView.UnshelveSilently" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
   <action id="Console.Open">
     <keyboard-shortcut first-keystroke="shift meta f10" />
     <keyboard-shortcut first-keystroke="meta alt 3" />
@@ -49,6 +52,10 @@
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
+  <action id="Macro.Clean and reformat">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
@@ -61,10 +68,15 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="shift meta u" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="ParameterInfo" />
   <action id="PinActiveTab">
     <keyboard-shortcut first-keystroke="shift meta alt p" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />

@@ -1,0 +1,37 @@
+<application>
+  <component name="GitflowState">
+    <option name="taskBranches">
+      <map>
+        <entry key="1959" value="feature/feature/#425" />
+        <entry key="2019" value="feature/#463" />
+        <entry key="2020" value="feature/#464" />
+        <entry key="2029" value="bugfix/#472" />
+        <entry key="2032" value="feature/#475" />
+        <entry key="2035" value="bugfix/#477" />
+        <entry key="2043" value="bugfix/#483" />
+        <entry key="2062" value="feature/#491" />
+        <entry key="2066" value="feature/#494" />
+        <entry key="2070" value="feature/#496" />
+        <entry key="2072" value="feature/#498" />
+        <entry key="2073" value="feature/#499" />
+        <entry key="2074" value="feature/#500" />
+        <entry key="2078" value="feature/#502" />
+        <entry key="LOCAL-00342" value="feature/tessss" />
+        <entry key="LOCAL-00358" value="hotfix/all_users_issue" />
+        <entry key="LOCAL-00359" value="feature/Finish_up_with_nova_for_Lise" />
+        <entry key="LOCAL-00371" value="bugfix/search_bar_gives_issues" />
+        <entry key="LOCAL-00375" value="feature/studio_grow_page" />
+        <entry key="LOCAL-00377" value="bugfix/fix_client_added_to_team" />
+        <entry key="LOCAL-00382" value="bugfix/cache_the_placeholders" />
+        <entry key="LOCAL-00387" value="feature/remove_update_at_and_save" />
+        <entry key="LOCAL-00396" value="feature/package_name_and_contract_name_filters" />
+        <entry key="LOCAL-00402" value="feature/7_day_trial" />
+        <entry key="LOCAL-00447" value="feature/320_char_limit_on_sms" />
+        <entry key="LOCAL-00449" value="feature/don't_refresh_audience_when_changing_name_in_automation" />
+        <entry key="LOCAL-00450" value="feature/filters_based_on_provider" />
+        <entry key="LOCAL-00467" value="feature/track_changes" />
+        <entry key="LOCAL-00471" value="feature/add_time_to_classes" />
+      </map>
+    </option>
+  </component>
+</application>
