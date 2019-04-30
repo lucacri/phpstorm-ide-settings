@@ -35,6 +35,7 @@
         <entry key="LOCAL-00488" value="feature/clubready_invoices_make_contracts" />
         <entry key="LOCAL-00490" value="feature/fix_mindbody_auto_step" />
         <entry key="LOCAL-00491" value="feature/clubready_change_import_logic" />
+        <entry key="LOCAL-00493" value="feature/add_import_done_to_sendgrid" />
       </map>
     </option>
   </component>
