@@ -43,6 +43,7 @@
         <entry key="LOCAL-00505" value="feature/CR_no_show_as_contract" />
         <entry key="LOCAL-00508" value="feature/CR_booking_status_to_no_show" />
         <entry key="LOCAL-00509" value="feature/CR_single_invoices_shouldn't_be_contracts" />
+        <entry key="LOCAL-00514" value="bugfix/fix_chromium_deps" />
       </map>
     </option>
   </component>
