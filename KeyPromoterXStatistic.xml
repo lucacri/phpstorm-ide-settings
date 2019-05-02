@@ -113,6 +113,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Move to Another Changelist...">
+        <Item>
+          <IdeaActionID>ChangesView.Move</IdeaActionID>
+          <ShortCut>'⇧⌘M'</ShortCut>
+          <Description>Move to Another Changelist...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Navigate to Data">
         <Item>
           <IdeaActionID>Console.TableResult.NavigateForeignAction</IdeaActionID>
@@ -246,7 +254,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>34</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
     </option>
