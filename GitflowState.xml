@@ -49,6 +49,7 @@
         <entry key="LOCAL-00514" value="bugfix/fix_chromium_deps" />
         <entry key="LOCAL-00523" value="feature/CR_contracts_only_monthly" />
         <entry key="LOCAL-00527" value="feature/new_plans_and_new_studio_go_page" />
+        <entry key="LOCAL-00529" value="feature/early_cancel_fixes" />
       </map>
     </option>
   </component>
