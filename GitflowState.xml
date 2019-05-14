@@ -59,6 +59,7 @@
         <entry key="LOCAL-00548" value="feature/CR_-_missing_client_error" />
         <entry key="LOCAL-00568" value="feature/MBO_-_delete_temporary_packages" />
         <entry key="LOCAL-00570" value="feature/CR_-_active_list_of_clients_count" />
+        <entry key="LOCAL-00576" value="feature/transactional_email_tracking" />
       </map>
     </option>
   </component>
