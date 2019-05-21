@@ -67,6 +67,7 @@
         <entry key="LOCAL-00576" value="feature/transactional_email_tracking" />
         <entry key="LOCAL-00583" value="feature/Hide_input_of_api_if_subscription_is_not_active_yet" />
         <entry key="LOCAL-00595" value="feature/add_tags_to_migration_of_our_data" />
+        <entry key="LOCAL-00599" value="feature/use_write_connection_on_repositories" />
       </map>
     </option>
   </component>
