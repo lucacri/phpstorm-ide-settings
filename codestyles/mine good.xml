@@ -17,6 +17,9 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <MySQLCodeStyleSettings version="2">
+    <option name="USE_GENERIC_STYLE" value="true" />
+  </MySQLCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -41,6 +44,33 @@
     <option name="KEEP_BLANK_LINES_AFTER_LBRACE" value="1" />
     <option name="FORCE_SHORT_DECLARATION_ARRAY_STYLE" value="true" />
   </PHPCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+    <option name="TYPE_CASE" value="0" />
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="2" />
+    <option name="SUBQUERY_OPENING" value="4" />
+    <option name="SUBQUERY_CONTENT" value="4" />
+    <option name="INSERT_INTO_NL" value="2" />
+    <option name="INSERT_TABLE_EL_LINE" value="1" />
+    <option name="INSERT_VALUES_EL_LINE" value="1" />
+    <option name="SET_EL_LINE" value="1" />
+    <option name="SET_EL_WRAP" value="3" />
+    <option name="WITH_EL_LINE" value="1" />
+    <option name="SELECT_EL_LINE" value="1" />
+    <option name="SELECT_EL_WRAP" value="2" />
+    <option name="SELECT_NEW_LINE_AFTER_ALL_DISTINCT" value="true" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_WRAP" value="3" />
+    <option name="FROM_ALIGN_JOIN_TABLES" value="true" />
+    <option name="WHERE_EL_LINE" value="1" />
+    <option name="WHERE_EL_WRAP" value="2" />
+    <option name="ORDER_EL_LINE" value="1" />
+    <option name="ORDER_EL_WRAP" value="2" />
+    <option name="TABLE_OPENING" value="4" />
+    <option name="CONSTRAINT_WRAP_1" value="false" />
+    <option name="VIEW_WRAP_QUERY" value="false" />
+    <option name="ROUTINE_ARG_CONTENT" value="1" />
+  </SqlCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -110,6 +140,12 @@
   <codeStyleSettings language="SCSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQL">
+    <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
