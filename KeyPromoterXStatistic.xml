@@ -198,7 +198,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌘I'</ShortCut>
           <Description>Properties</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -318,6 +318,14 @@
           <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
           <ShortCut>'⌥⇧⌘L'</ShortCut>
           <Description>Show Reformat File Dialog</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Source Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
+          <ShortCut>'⌘B'</ShortCut>
+          <Description>Source Editor</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
