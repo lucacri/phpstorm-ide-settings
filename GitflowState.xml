@@ -71,6 +71,7 @@
         <entry key="LOCAL-00599" value="feature/use_write_connection_on_repositories" />
         <entry key="LOCAL-00602" value="feature/migration_better_matching" />
         <entry key="LOCAL-00652" value="feature/Prometheus_metrics" />
+        <entry key="LOCAL-00667" value="feature/Clubready_multiple_locations" />
       </map>
     </option>
   </component>
