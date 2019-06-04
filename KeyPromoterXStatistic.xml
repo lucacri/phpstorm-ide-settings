@@ -241,6 +241,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun">
+        <Item>
+          <IdeaActionID>UsageView.Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Default Layout">
         <Item>
           <IdeaActionID>RestoreDefaultLayout</IdeaActionID>
