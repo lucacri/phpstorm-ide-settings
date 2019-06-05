@@ -201,6 +201,14 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reformat Code">
+        <Item>
+          <IdeaActionID>ReformatCode</IdeaActionID>
+          <ShortCut>'⌥⌘L'</ShortCut>
+          <Description>Reformat Code</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Refresh">
         <Item>
           <IdeaActionID>Vcs.Log.Refresh</IdeaActionID>
@@ -238,7 +246,7 @@
           <IdeaActionID>ReplaceInPath</IdeaActionID>
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Replace in Path...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun">
@@ -278,6 +286,14 @@
           <IdeaActionID>Git.Reword.Commit</IdeaActionID>
           <ShortCut>'F2' or '⇧F6'</ShortCut>
           <Description>Reword...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Elements (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Elements (PHPUnit)'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
