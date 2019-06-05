@@ -289,6 +289,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ClubReady (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'ClubReady (PHPUnit)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Elements (PHPUnit)'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -310,7 +318,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Mindbody (PHPUnit)'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Providers (PHPUnit)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'Providers (PHPUnit)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Command...">
