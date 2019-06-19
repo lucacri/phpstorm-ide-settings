@@ -75,6 +75,7 @@
         <entry key="LOCAL-00667" value="feature/Clubready_multiple_locations" />
         <entry key="LOCAL-00669" value="feature/CR_-_import_future_visits_too" />
         <entry key="LOCAL-00697" value="feature/GraphQL" />
+        <entry key="LOCAL-00701" value="feature/Segments_with_own_filters_column" />
       </map>
     </option>
   </component>
