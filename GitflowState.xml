@@ -78,6 +78,7 @@
         <entry key="LOCAL-00697" value="feature/GraphQL" />
         <entry key="LOCAL-00701" value="feature/Segments_with_own_filters_column" />
         <entry key="LOCAL-00715" value="feature/too_many_slack_notifications" />
+        <entry key="LOCAL-00718" value="feature/migrate_automations_without_transaction" />
       </map>
     </option>
   </component>
