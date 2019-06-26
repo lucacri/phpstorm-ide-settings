@@ -185,6 +185,14 @@
           <Count>98</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Flatten Packages">
+        <Item>
+          <IdeaActionID>TodoViewGroupByFlattenPackage</IdeaActionID>
+          <ShortCut>'⌘F'</ShortCut>
+          <Description>Flatten Packages</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Force Step Into">
         <Item>
           <IdeaActionID>ForceStepInto</IdeaActionID>
@@ -206,6 +214,22 @@
           <IdeaActionID>DatabaseView.OpenDdlInConsole</IdeaActionID>
           <ShortCut>'⌥⇧⌘B'</ShortCut>
           <Description>Generate DDL to Console</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group By Modules">
+        <Item>
+          <IdeaActionID>TodoViewGroupByShowModules</IdeaActionID>
+          <ShortCut>'⌘M'</ShortCut>
+          <Description>Group By Modules</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Group By Packages">
+        <Item>
+          <IdeaActionID>TodoViewGroupByShowPackages</IdeaActionID>
+          <ShortCut>'⌘P'</ShortCut>
+          <Description>Group By Packages</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -551,6 +575,14 @@
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
           <Count>126</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="TODO">
+        <Item>
+          <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
+          <ShortCut>'⌘6'</ShortCut>
+          <Description>TODO</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
