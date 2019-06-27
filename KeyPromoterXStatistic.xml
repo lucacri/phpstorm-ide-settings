@@ -166,7 +166,7 @@
           <IdeaActionID>com.intellij.lang.jsgraphql.v1.ide.actions.JSGraphQLExecuteEditorAction</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Execute GraphQL</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
