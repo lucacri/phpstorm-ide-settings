@@ -82,6 +82,7 @@
         <entry key="LOCAL-00718" value="feature/migrate_automations_without_transaction" />
         <entry key="LOCAL-00721" value="feature/migrations_of_bulky_automations" />
         <entry key="LOCAL-00731" value="feature/fixt_tests" />
+        <entry key="LOCAL-00743" value="feature/GraphQl_with_lighthouse" />
       </map>
     </option>
   </component>
