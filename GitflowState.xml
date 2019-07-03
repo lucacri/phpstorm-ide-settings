@@ -84,6 +84,7 @@
         <entry key="LOCAL-00721" value="feature/migrations_of_bulky_automations" />
         <entry key="LOCAL-00731" value="feature/fixt_tests" />
         <entry key="LOCAL-00743" value="feature/GraphQl_with_lighthouse" />
+        <entry key="LOCAL-00749" value="feature/switch_to_laravel-webserver" />
       </map>
     </option>
   </component>
