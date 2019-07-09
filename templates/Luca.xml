@@ -15,8 +15,9 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="phptest" value="/**&#10;* $TEST_NAME$&#10;**/&#10;public function test_$TEST_BETTER$(){&#10;    $END$&#10;}&#10;" description="PHPUnit test" toReformat="true" toShortenFQNames="true">
+  <template name="phptest" value="/**&#10;* $TEST_NAME$&#10;* @returns void&#10;* @covers ::$COVERS$&#10;**/&#10;public function test_$TEST_BETTER$() :void{&#10;    $END$&#10;}&#10;" description="PHPUnit test" toReformat="true" toShortenFQNames="true">
     <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COVERS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEST_BETTER" expression="snakeCase(TEST_NAME)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP" value="true" />
@@ -55,6 +56,13 @@
   <template name="laattribute" value="/**&#10;*  $ATTRIBUTE_NAME$&#10;*&#10;* @param string $value&#10;* &#10;* @return $string&#10;**/&#10;public function $ATTRIBUTE_BETTER$($value){&#10;   return $END$;&#10;}&#10;" description="Laravel Model Attribute" toReformat="true" toShortenFQNames="true">
     <variable name="ATTRIBUTE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="ATTRIBUTE_BETTER" expression="camelCase(concat(&quot;get&quot;, &quot; &quot;, ATTRIBUTE_NAME, &quot;Attribute&quot;))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="qlresolve" value="/**&#10;*  $ATTRIBUTE_NAME$ Field Resolve&#10;*&#10;* @param $root&#10;* @param $args&#10;* &#10;* @return $mixed&#10;**/&#10;public function $ATTRIBUTE_BETTER$($root, $args){&#10;   return $END$;&#10;}&#10;" description="GraphQL Resolve Field" toReformat="true" toShortenFQNames="true">
+    <variable name="ATTRIBUTE_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ATTRIBUTE_BETTER" expression="camelCase(concat(&quot;resolve&quot;, &quot; &quot;, ATTRIBUTE_NAME, &quot;Field&quot;))" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
     </context>

@@ -5,9 +5,12 @@
         <entry key="1959" value="feature/feature/#425" />
         <entry key="2019" value="feature/#463" />
         <entry key="2020" value="feature/#464" />
+        <entry key="2028" value="feature/#471" />
         <entry key="2029" value="bugfix/#472" />
+        <entry key="2030" value="feature/#473" />
         <entry key="2032" value="feature/#475" />
         <entry key="2035" value="bugfix/#477" />
+        <entry key="2038" value="feature/#480" />
         <entry key="2043" value="bugfix/#483" />
         <entry key="2062" value="feature/#491" />
         <entry key="2066" value="feature/#494" />
@@ -16,6 +19,21 @@
         <entry key="2073" value="feature/#499" />
         <entry key="2074" value="feature/#500" />
         <entry key="2078" value="feature/#502" />
+        <entry key="2081" value="feature/#504" />
+        <entry key="2082" value="feature/#505" />
+        <entry key="2085" value="feature/#508" />
+        <entry key="2095" value="feature/#518" />
+        <entry key="2097" value="feature/#519" />
+        <entry key="2104" value="feature/#523" />
+        <entry key="2105" value="feature/#524" />
+        <entry key="2111" value="feature/#530" />
+        <entry key="2119" value="feature/#536" />
+        <entry key="2122" value="feature/#538" />
+        <entry key="2123" value="feature/#539" />
+        <entry key="2125" value="feature/#540" />
+        <entry key="2183" value="feature/#568" />
+        <entry key="2189" value="feature/#574" />
+        <entry key="2212" value="feature/#587" />
         <entry key="LOCAL-00342" value="feature/tessss" />
         <entry key="LOCAL-00358" value="hotfix/all_users_issue" />
         <entry key="LOCAL-00359" value="feature/Finish_up_with_nova_for_Lise" />
@@ -31,6 +49,42 @@
         <entry key="LOCAL-00450" value="feature/filters_based_on_provider" />
         <entry key="LOCAL-00467" value="feature/track_changes" />
         <entry key="LOCAL-00471" value="feature/add_time_to_classes" />
+        <entry key="LOCAL-00486" value="feature/fix_mindbody_old_sales_step" />
+        <entry key="LOCAL-00488" value="feature/clubready_invoices_make_contracts" />
+        <entry key="LOCAL-00490" value="feature/fix_mindbody_auto_step" />
+        <entry key="LOCAL-00491" value="feature/clubready_change_import_logic" />
+        <entry key="LOCAL-00493" value="feature/add_import_done_to_sendgrid" />
+        <entry key="LOCAL-00503" value="feature/Bee" />
+        <entry key="LOCAL-00505" value="feature/CR_no_show_as_contract" />
+        <entry key="LOCAL-00508" value="feature/CR_booking_status_to_no_show" />
+        <entry key="LOCAL-00509" value="feature/CR_single_invoices_shouldn't_be_contracts" />
+        <entry key="LOCAL-00514" value="bugfix/fix_chromium_deps" />
+        <entry key="LOCAL-00523" value="feature/CR_contracts_only_monthly" />
+        <entry key="LOCAL-00527" value="feature/new_plans_and_new_studio_go_page" />
+        <entry key="LOCAL-00529" value="feature/early_cancel_fixes" />
+        <entry key="LOCAL-00537" value="feature/Clubready_use_billing_for_updates" />
+        <entry key="LOCAL-00540" value="feature/Clubready_-_missing_client_to_inactive" />
+        <entry key="LOCAL-00542" value="feature/CR_-_Nova_api_stats" />
+        <entry key="LOCAL-00546" value="feature/CR_-_nova_actions" />
+        <entry key="LOCAL-00548" value="feature/CR_-_missing_client_error" />
+        <entry key="LOCAL-00568" value="feature/MBO_-_delete_temporary_packages" />
+        <entry key="LOCAL-00570" value="feature/CR_-_active_list_of_clients_count" />
+        <entry key="LOCAL-00576" value="feature/transactional_email_tracking" />
+        <entry key="LOCAL-00583" value="feature/Hide_input_of_api_if_subscription_is_not_active_yet" />
+        <entry key="LOCAL-00595" value="feature/add_tags_to_migration_of_our_data" />
+        <entry key="LOCAL-00599" value="feature/use_write_connection_on_repositories" />
+        <entry key="LOCAL-00602" value="feature/migration_better_matching" />
+        <entry key="LOCAL-00652" value="feature/Prometheus_metrics" />
+        <entry key="LOCAL-00667" value="feature/Clubready_multiple_locations" />
+        <entry key="LOCAL-00669" value="feature/CR_-_import_future_visits_too" />
+        <entry key="LOCAL-00697" value="feature/GraphQL" />
+        <entry key="LOCAL-00701" value="feature/Segments_with_own_filters_column" />
+        <entry key="LOCAL-00715" value="feature/too_many_slack_notifications" />
+        <entry key="LOCAL-00718" value="feature/migrate_automations_without_transaction" />
+        <entry key="LOCAL-00721" value="feature/migrations_of_bulky_automations" />
+        <entry key="LOCAL-00731" value="feature/fixt_tests" />
+        <entry key="LOCAL-00743" value="feature/GraphQl_with_lighthouse" />
+        <entry key="LOCAL-00749" value="feature/switch_to_laravel-webserver" />
       </map>
     </option>
   </component>

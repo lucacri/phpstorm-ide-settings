@@ -59,6 +59,9 @@
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="meta alt u" />
   </action>
+  <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt u" />
+  </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift meta alt u" />
   </action>
