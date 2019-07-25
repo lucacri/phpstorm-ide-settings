@@ -33,6 +33,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Close Others">
+        <Item>
+          <IdeaActionID>CloseAllEditorsButActive</IdeaActionID>
+          <ShortCut>'⌥⌘W'</ShortCut>
+          <Description>Close Others</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Collapse All">
         <Item>
           <IdeaActionID>CollapseAllRegions</IdeaActionID>
@@ -182,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>112</Count>
+          <Count>114</Count>
         </Item>
       </Statistic>
       <Statistic Action="Flatten Packages">
