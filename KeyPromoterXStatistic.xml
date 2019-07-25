@@ -190,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>114</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Flatten Packages">
