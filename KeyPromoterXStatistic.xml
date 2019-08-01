@@ -622,7 +622,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'⌘⏎'</ShortCut>
           <Description>Submit</Description>
-          <Count>139</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
