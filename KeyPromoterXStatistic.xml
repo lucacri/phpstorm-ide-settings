@@ -142,7 +142,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>36</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -190,7 +190,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>145</Count>
+          <Count>148</Count>
         </Item>
       </Statistic>
       <Statistic Action="Flatten Packages">
@@ -526,7 +526,7 @@
           <IdeaActionID>SafeDelete</IdeaActionID>
           <ShortCut>'⌘⌦'</ShortCut>
           <Description>Safe Delete...</Description>
-          <Count>20</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Select All">
