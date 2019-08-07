@@ -358,15 +358,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>355</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Remove">
-        <Item>
-          <IdeaActionID>UsageView.Remove</IdeaActionID>
-          <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
-          <Description>Remove</Description>
-          <Count>2</Count>
+          <Count>362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -526,7 +518,7 @@
           <IdeaActionID>SafeDelete</IdeaActionID>
           <ShortCut>'⌘⌦'</ShortCut>
           <Description>Safe Delete...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Select All">
@@ -697,6 +689,14 @@
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Move To Opposite Group</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>UsageView.Remove</IdeaActionID>
+          <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
+          <Description>Remove</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
