@@ -95,6 +95,7 @@
         <entry key="LOCAL-00807" value="feature/Segments_migrator" />
         <entry key="LOCAL-00817" value="feature/studio-go-page" />
         <entry key="LOCAL-00819" value="bugfix/log_also_graphql_errors" />
+        <entry key="LOCAL-00831" value="feature/Typescript" />
       </map>
     </option>
   </component>
