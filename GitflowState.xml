@@ -102,6 +102,7 @@
         <entry key="LOCAL-00819" value="bugfix/log_also_graphql_errors" />
         <entry key="LOCAL-00831" value="feature/Typescript" />
         <entry key="LOCAL-00833" value="feature/fix_match_all-any" />
+        <entry key="LOCAL-00850" value="feature/Fix_sale_filter" />
       </map>
     </option>
   </component>
