@@ -3,7 +3,7 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-16T15:49:06</property>
+    <property name="modified">2019-08-21T14:36:55</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <colors>
@@ -27729,6 +27729,11 @@
         <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="ff" />
+      </value>
+    </option>
+    <option name="TS.TYPE_GUARD">
+      <value>
+        <option name="BACKGROUND" value="373832" />
       </value>
     </option>
     <option name="TYPEDEF">
