@@ -24,6 +24,10 @@
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt f2" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -94,4 +98,5 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
+  <action id="WebOpenInAction" />
 </keymap>
