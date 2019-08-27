@@ -9,6 +9,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="vultr-cloudinit-worked" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="pptcron" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="hartU5amE" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit" type="PLAIN_TEXT" />
@@ -19,7 +20,6 @@
       <mapping pattern="phpcron" type="PLAIN_TEXT" />
       <mapping pattern="start_time" type="PLAIN_TEXT" />
       <mapping pattern="tmp/compiledstuff/artisan" type="PLAIN_TEXT" />
-      <mapping pattern="pptcron" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="ea9a2ea9640a1296e46f110037c4e22994d7e27b" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />

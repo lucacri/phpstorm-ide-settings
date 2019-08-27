@@ -1,7 +1,0 @@
-<application>
-  <component name="TerminalOptionsProvider">
-    <envs>
-      <env key="CACHE_DRIVER" value="array" />
-    </envs>
-  </component>
-</application>
