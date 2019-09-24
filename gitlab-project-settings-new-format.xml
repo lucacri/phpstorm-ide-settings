@@ -1,5 +1,483 @@
 <application>
   <component name="SettingsState">
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/addisplay/addisplay.git" />
+          <option name="name" value="addisplay" />
+          <option name="namespace" value="AdDisplay" />
+          <option name="sshUrl" value="git@gitlab.critel.li:addisplay/addisplay.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/addisplay/kubernetes.git" />
+          <option name="name" value="kubernetes" />
+          <option name="namespace" value="AdDisplay" />
+          <option name="sshUrl" value="git@gitlab.critel.li:addisplay/kubernetes.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/addisplay/maintenance-page.git" />
+          <option name="name" value="maintenance-page" />
+          <option name="namespace" value="AdDisplay" />
+          <option name="sshUrl" value="git@gitlab.critel.li:addisplay/maintenance-page.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/adsopted/adsopted.git" />
+          <option name="name" value="AdsOpted" />
+          <option name="namespace" value="AdsOpted" />
+          <option name="sshUrl" value="git@gitlab.critel.li:adsopted/adsopted.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca/alpaca.git" />
+          <option name="name" value="alpaca" />
+          <option name="namespace" value="alpaca" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca/alpaca.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca/host-and-post.git" />
+          <option name="name" value="host-and-post" />
+          <option name="namespace" value="alpaca" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca/host-and-post.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca/host-and-post-template.git" />
+          <option name="name" value="host-and-post-template" />
+          <option name="namespace" value="alpaca" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca/host-and-post-template.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca/kubernetes.git" />
+          <option name="name" value="kubernetes" />
+          <option name="namespace" value="alpaca" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca/kubernetes.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/au-solar-quote-compare.git" />
+          <option name="name" value="au-solar-quote-compare" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/au-solar-quote-compare.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/cura-debt.git" />
+          <option name="name" value="cura-debt" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/cura-debt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/debt.git" />
+          <option name="name" value="debt" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/debt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/es-energy.git" />
+          <option name="name" value="es-energy" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/es-energy.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/Gana_Energia.git" />
+          <option name="name" value="Gana_Energia" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/Gana_Energia.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/GetDebtHelp.git" />
+          <option name="name" value="GetDebtHelp" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/GetDebtHelp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/Homerez.git" />
+          <option name="name" value="Homerez" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/Homerez.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/host-and-post.git" />
+          <option name="name" value="host-and-post" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/host-and-post.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/lower-tax-debt.git" />
+          <option name="name" value="lower-tax-debt" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/lower-tax-debt.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/Mi-Podo.git" />
+          <option name="name" value="Mi-Podo" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/Mi-Podo.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/Mi-Podo-10-Ventajas.git" />
+          <option name="name" value="Mi-Podo-10-Ventajas" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/Mi-Podo-10-Ventajas.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/mi-podo-valid_phone_emphasis.git" />
+          <option name="name" value="mi-podo-valid_phone_emphasis" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/mi-podo-valid_phone_emphasis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/mi-podo_name-phone.git" />
+          <option name="name" value="mi-podo_name-phone" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/mi-podo_name-phone.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/the_Gabriel_Method.git" />
+          <option name="name" value="the_Gabriel_Method" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/the_Gabriel_Method.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/TheClaimsGuys.git" />
+          <option name="name" value="TheClaimsGuys" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/TheClaimsGuys.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/Top-Insurance.git" />
+          <option name="name" value="Top-Insurance" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/Top-Insurance.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/alpaca-pages/Us-Solar.git" />
+          <option name="name" value="Us-Solar" />
+          <option name="namespace" value="alpaca-pages" />
+          <option name="sshUrl" value="git@gitlab.critel.li:alpaca-pages/Us-Solar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/clickview/site.git" />
+          <option name="name" value="site" />
+          <option name="namespace" value="clickview" />
+          <option name="sshUrl" value="git@gitlab.critel.li:clickview/site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/all-images.git" />
+          <option name="name" value="all-images" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/all-images.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/alpaca.git" />
+          <option name="name" value="alpaca" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/alpaca.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/base.git" />
+          <option name="name" value="base" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/base.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/laravel-fpm.git" />
+          <option name="name" value="laravel-fpm" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/laravel-fpm.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/liquidsocial-app.git" />
+          <option name="name" value="liquidsocial-app" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/liquidsocial-app.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/paypertrail.git" />
+          <option name="name" value="paypertrail" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/paypertrail.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/selenium.git" />
+          <option name="name" value="selenium" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/selenium.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/utils.git" />
+          <option name="name" value="utils" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/utils.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/docker/various.git" />
+          <option name="name" value="various" />
+          <option name="namespace" value="docker" />
+          <option name="sshUrl" value="git@gitlab.critel.li:docker/various.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/docs.git" />
+          <option name="name" value="docs" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/docs.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/HelloManagers.git" />
+          <option name="name" value="HelloManagers-CRM" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/HelloManagers.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/nova-clubready-api-stats.git" />
+          <option name="name" value="Nova ClubReady API Stats" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/nova-clubready-api-stats.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/nova-api-stats.git" />
+          <option name="name" value="nova-api-stats" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/nova-api-stats.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/nova-unlayer.git" />
+          <option name="name" value="nova-unlayer" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/nova-unlayer.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/phoneapp.git" />
+          <option name="name" value="PhoneApp" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/phoneapp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/research-assets.git" />
+          <option name="name" value="Research assets" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/research-assets.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/HelloManagers/Sales.git" />
+          <option name="name" value="Sales" />
+          <option name="namespace" value="HelloManagers" />
+          <option name="sshUrl" value="git@gitlab.critel.li:HelloManagers/Sales.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/johnnygyptian/wordpress.git" />
+          <option name="name" value="wordpress" />
+          <option name="namespace" value="John Homyk" />
+          <option name="sshUrl" value="git@gitlab.critel.li:johnnygyptian/wordpress.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/kubernetes/adsopted.git" />
+          <option name="name" value="adsopted" />
+          <option name="namespace" value="Kubernetes" />
+          <option name="sshUrl" value="git@gitlab.critel.li:kubernetes/adsopted.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/kubernetes/hellomanagers.git" />
+          <option name="name" value="hellomanagers" />
+          <option name="namespace" value="Kubernetes" />
+          <option name="sshUrl" value="git@gitlab.critel.li:kubernetes/hellomanagers.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/kubernetes/home.git" />
+          <option name="name" value="home" />
+          <option name="namespace" value="Kubernetes" />
+          <option name="sshUrl" value="git@gitlab.critel.li:kubernetes/home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/kubernetes/otherstuff.git" />
+          <option name="name" value="otherstuff" />
+          <option name="namespace" value="Kubernetes" />
+          <option name="sshUrl" value="git@gitlab.critel.li:kubernetes/otherstuff.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/kubernetes/paypertrail.git" />
+          <option name="name" value="paypertrail" />
+          <option name="namespace" value="Kubernetes" />
+          <option name="sshUrl" value="git@gitlab.critel.li:kubernetes/paypertrail.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/liquid-social/liquidsocial.git" />
+          <option name="name" value="LiquidSocial" />
+          <option name="namespace" value="Liquid.Social" />
+          <option name="sshUrl" value="git@gitlab.critel.li:liquid-social/liquidsocial.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/ansible.git" />
+          <option name="name" value="ansible" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/ansible.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/certificates.git" />
+          <option name="name" value="certificates" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/certificates.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/docker-hub.git" />
+          <option name="name" value="docker-hub" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/docker-hub.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/fullr-media-site.git" />
+          <option name="name" value="FullR Media Site" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/fullr-media-site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/gh-60-qmk.git" />
+          <option name="name" value="gh-60-qmk" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/gh-60-qmk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/git-my-release.git" />
+          <option name="name" value="git-my-release" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/git-my-release.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/gke-image-remover.git" />
+          <option name="name" value="gke-image-remover" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/gke-image-remover.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/hellomanagers-assets.git" />
+          <option name="name" value="HelloManagers-Assets" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/hellomanagers-assets.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/home-assistant.git" />
+          <option name="name" value="home-assistant" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/home-assistant.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/homebridge-http-temperature-humidity.git" />
+          <option name="name" value="homebridge-http-temperature-humidity" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/homebridge-http-temperature-humidity.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/karabiner.git" />
+          <option name="name" value="karabiner" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/karabiner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/linux-server-scripts.git" />
+          <option name="name" value="linux-server-scripts" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/linux-server-scripts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/lucacritellicom.git" />
+          <option name="name" value="lucacritelliCom" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/lucacritellicom.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/melissamacalister.com.git" />
+          <option name="name" value="melissamacalister.com" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/melissamacalister.com.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/my-plex-cleaner.git" />
+          <option name="name" value="my-plex-cleaner" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/my-plex-cleaner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/myaltcoins.git" />
+          <option name="name" value="MyAltCoins" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/myaltcoins.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/ombi-to-watcher.git" />
+          <option name="name" value="ombi-to-watcher" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/ombi-to-watcher.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/photos-converter.git" />
+          <option name="name" value="photos-converter" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/photos-converter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/renovate-bot.git" />
+          <option name="name" value="Renovate Bot" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/renovate-bot.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/routers.git" />
+          <option name="name" value="routers" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/routers.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/scripts.git" />
+          <option name="name" value="scripts" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/scripts.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/lucacri/wedding-site.git" />
+          <option name="name" value="wedding-site" />
+          <option name="namespace" value="Luca Critelli" />
+          <option name="sshUrl" value="git@gitlab.critel.li:lucacri/wedding-site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/studio-go/studiogo-assets.git" />
+          <option name="name" value="Assets" />
+          <option name="namespace" value="Studio Go" />
+          <option name="sshUrl" value="git@gitlab.critel.li:studio-go/studiogo-assets.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/studio-go/code-issues.git" />
+          <option name="name" value="Code Issues" />
+          <option name="namespace" value="Studio Go" />
+          <option name="sshUrl" value="git@gitlab.critel.li:studio-go/code-issues.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/studio-go/company-stuff.git" />
+          <option name="name" value="Company Stuff" />
+          <option name="namespace" value="Studio Go" />
+          <option name="sshUrl" value="git@gitlab.critel.li:studio-go/company-stuff.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/studio-go/customer-support.git" />
+          <option name="name" value="Customer Support" />
+          <option name="namespace" value="Studio Go" />
+          <option name="sshUrl" value="git@gitlab.critel.li:studio-go/customer-support.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/studio-go/features-request.git" />
+          <option name="name" value="Features Request" />
+          <option name="namespace" value="Studio Go" />
+          <option name="sshUrl" value="git@gitlab.critel.li:studio-go/features-request.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/studio-go/sales.git" />
+          <option name="name" value="Sales" />
+          <option name="namespace" value="Studio Go" />
+          <option name="sshUrl" value="git@gitlab.critel.li:studio-go/sales.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="https://gitlab.critel.li/ViralNative/docker-images.git" />
+          <option name="name" value="docker-images" />
+          <option name="namespace" value="ViralNative" />
+          <option name="sshUrl" value="git@gitlab.critel.li:ViralNative/docker-images.git" />
+        </ProjectDto>
+      </list>
+    </option>
     <option name="gitlabServers">
       <list>
         <GitlabServer>
