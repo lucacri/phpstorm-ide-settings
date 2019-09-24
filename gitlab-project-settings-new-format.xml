@@ -1,0 +1,13 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="9NXWJAVfDL8xvKxjkwtY" />
+          <option name="apiUrl" value="https://gitlab.critel.li" />
+          <option name="repositoryUrl" value="gitlab.critel.li" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
