@@ -155,6 +155,7 @@
         <entry key="LOCAL-00974" value="feature/Upgrade_upgrade_to_bulma-tooltip_3.0.0" />
         <entry key="LOCAL-00977" value="feature/Fix_signup_page" />
         <entry key="LOCAL-00980" value="feature/Docker_with_cache" />
+        <entry key="LOCAL-00983" value="feature/Fix_signup_error_message" />
       </map>
     </option>
   </component>
