@@ -1,0 +1,9 @@
+<templateSet group="Vue TS">
+  <template name="vwatch" value="@Watch('$varToWatch$')&#10;on$varCleaned$Change() {&#10;    $END$&#10;}" toReformat="false" toShortenFQNames="true">
+    <variable name="varToWatch" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="varCleaned" expression="capitalize(underscoresToCamelCase(varToWatch))" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+    </context>
+  </template>
+</templateSet>
