@@ -163,6 +163,7 @@
         <entry key="LOCAL-01000" value="feature/Fix_upload_of_prospects" />
         <entry key="LOCAL-01017" value="feature/Breaking_wizard" />
         <entry key="LOCAL-01020" value="feature/New_catalog_wizard" />
+        <entry key="LOCAL-01027" value="feature/Fix_wizard_add_category_and_brand" />
       </map>
     </option>
   </component>
