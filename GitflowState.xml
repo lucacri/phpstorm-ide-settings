@@ -169,6 +169,7 @@
         <entry key="LOCAL-01036" value="feature/Wizard_saving" />
         <entry key="LOCAL-01042" value="feature/New_catalog_listing_page" />
         <entry key="LOCAL-01047" value="feature/Catalog_choose_page" />
+        <entry key="LOCAL-01052" value="feature/New_edit_catalog_item_if_admin" />
       </map>
     </option>
   </component>
