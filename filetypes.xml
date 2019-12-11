@@ -33,6 +33,7 @@
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
+      <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="script" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
