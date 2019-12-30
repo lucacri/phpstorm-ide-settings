@@ -1,13 +1,11 @@
 <application>
   <component name="MessDetector">
-    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="$USER_HOME$/.composer/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpAutoImport" auto_import_file_scope="true" />
   <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs---" />
     </phpcs_settings>
@@ -15,7 +13,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="15cafcc1-e649-4eb3-8f8d-2cf80c32e60b" name="php5.4.9 brew" home="/usr/local/bin" debugger_id="php.debugger.XDebug" />
-      <interpreter id="cdcb8889-10c1-46bd-84d4-30b8700e05ae" name="Current" home="$USER_HOME$/.phpbrew/php/php-7.3.11/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="cdcb8889-10c1-46bd-84d4-30b8700e05ae" name="Current" home="$USER_HOME$/.phpbrew/php/php-7.3.13/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="c3fe3c03-e514-4f8d-b6a3-00a9366a8262" name="PHP 7.2 phpbrew" home="$USER_HOME$/.phpbrew/php/php-7.2.11/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="b8a489d8-140a-4683-af54-ff2889796db4" name="PHP 7.3" home="$USER_HOME$/.phpbrew/php/php-7.3.9/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="5a0219b0-38c3-4694-a087-38d2be6505f6" name="PHP 7.2.17" home="$USER_HOME$/.phpbrew/php/php-7.2.17/bin/php" debugger_id="php.debugger.XDebug" />
@@ -88,11 +86,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Current">
-        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-7.3.11/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-7.3.11/bin/php" path_separator=":" version="7.3.11">
-          <additional_php_ini>$USER_HOME$/.phpbrew/php/php-7.3.11/var/db/exif.ini, /Users/lucacri/.phpbrew/php/php-7.3.11/var/db/gd.ini, /Users/lucacri/.phpbrew/php/php-7.3.11/var/db/imagick.ini, /Users/lucacri/.phpbrew/php/php-7.3.11/var/db/opcache.ini, /Users/lucacri/.phpbrew/php/php-7.3.11/var/db/redis.ini, /Users/lucacri/.phpbrew/php/php-7.3.11/var/db/soap.ini</additional_php_ini>
-          <configuration_file>$USER_HOME$/.phpbrew/php/php-7.3.11/etc/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="$USER_HOME$/.phpbrew/php/php-7.3.13/bin/php-cgi" php_cli="$USER_HOME$/.phpbrew/php/php-7.3.13/bin/php" path_separator=":" version="7.3.13">
+          <additional_php_ini>$USER_HOME$/.phpbrew/php/php-7.3.13/var/db/exif.ini, /Users/lucacri/.phpbrew/php/php-7.3.13/var/db/gd.ini, /Users/lucacri/.phpbrew/php/php-7.3.13/var/db/imagick.ini, /Users/lucacri/.phpbrew/php/php-7.3.13/var/db/opcache.ini, /Users/lucacri/.phpbrew/php/php-7.3.13/var/db/redis.ini, /Users/lucacri/.phpbrew/php/php-7.3.13/var/db/soap.ini</additional_php_ini>
+          <configuration_file>$USER_HOME$/.phpbrew/php/php-7.3.13/etc/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/Users/lucacri/.phpbrew/php/php-7.3.11/lib/php/pear" />
+            <configuration_option name="include_path" value=".:/Users/lucacri/.phpbrew/php/php-7.3.13/lib/php/pear" />
           </configuration_options>
           <debuggers />
           <loaded_extensions>
@@ -136,6 +134,7 @@
             <extension name="shmop" />
             <extension name="soap" />
             <extension name="sockets" />
+            <extension name="sodium" />
             <extension name="sqlite3" />
             <extension name="standard" />
             <extension name="sysvmsg" />
