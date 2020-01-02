@@ -7,6 +7,9 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta 3" />
   </action>
+  <action id="ActivateTimeTrackingToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
   <action id="ChangesView.UnshelveSilently" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="meta alt w" />
