@@ -1,0 +1,5 @@
+<application>
+  <component name="MergeRequestIntegrationApplicationLevel">
+    <Item id="gitlab:Default" providerId="gitlab" url="https://gitlab.critel.li" login="https://gitlab.critel.li" projectId="112" version="v4" info="" repository="" />
+  </component>
+</application>
