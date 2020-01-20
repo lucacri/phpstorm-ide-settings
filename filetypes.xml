@@ -30,7 +30,6 @@
       <mapping ext="d/99-web-folder" type="PLAIN_TEXT" />
       <mapping ext="cloudinit" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
-      <mapping ext="dockerfile" type="PLAIN_TEXT" />
       <mapping ext="partial" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
