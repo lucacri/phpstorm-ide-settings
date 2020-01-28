@@ -153,6 +153,7 @@
     <option name="ROUTINE_ARG_CONTENT" value="1" />
   </MSSQLCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
