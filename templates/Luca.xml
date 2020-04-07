@@ -67,4 +67,11 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="testclass" value="/**&#10; * Class $NAME$&#10; * @covers $TESTED_CLASS$&#10; * @coversDefaultClass $TESTED_CLASS$&#10; */&#10;" description="Test class docblock" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TESTED_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
 </templateSet>
