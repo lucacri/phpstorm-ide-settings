@@ -10,4 +10,11 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.tooltip.initialDelay" value="300" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="Memory" value="true" />
+      </map>
+    </option>
+  </component>
 </application>
