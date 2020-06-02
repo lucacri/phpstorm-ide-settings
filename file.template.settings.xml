@@ -1,6 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
+      <template name="PHP GraphQL Directive.php" reformat="true" live-template-enabled="true" />
       <template name="Vue TS File.ts" reformat="true" live-template-enabled="true" />
     </default_templates>
     <internal_templates>
