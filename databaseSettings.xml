@@ -1,6 +1,6 @@
 <application>
   <component name="DatabaseSettings" version="4">
-    <option name="page-size" value="100" />
+    <option name="page-size" value="1000" />
     <option name="always-review-parameters" value="false" />
     <text-mode in-scripts="false">
       <parameter-patterns>
