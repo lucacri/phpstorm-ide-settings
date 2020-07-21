@@ -3,7 +3,7 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-12-30T14:53:06</property>
+    <property name="modified">2020-07-21T11:19:35</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <colors>
@@ -111,9 +111,14 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff4a50" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ff5765" />
+        <option name="FOREGROUND" value="ff0a02" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -3051,7 +3056,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.HTML_BLOCK" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
     <option name="MARKDOWN_NAVIGATOR.IMAGE">
       <value>
         <option name="FOREGROUND" value="8a01f8" />
@@ -3066,7 +3070,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.INLINE_HTML" baseAttributes="MARKDOWN_NAVIGATOR.HTML_BLOCK" />
     <option name="MARKDOWN_NAVIGATOR.ITALIC_TEXT_CODE_TEXT">
       <value>
         <option name="FOREGROUND" value="b8bfa9" />
@@ -3100,8 +3103,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.LINE_BREAK_SPACES" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="MARKDOWN_NAVIGATOR.LINK_REF" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
     <option name="MARKDOWN_NAVIGATOR.LINK_REF_ANCHOR">
       <value>
         <option name="FOREGROUND" value="7100c8" />
@@ -3112,7 +3113,6 @@
     <option name="MARKDOWN_NAVIGATOR.LINK_REF_TITLE">
       <value />
     </option>
-    <option name="MARKDOWN_NAVIGATOR.MAIL_LINK" baseAttributes="MARKDOWN_NAVIGATOR.AUTO_LINK" />
     <option name="MARKDOWN_NAVIGATOR.QUOTE">
       <value>
         <option name="FOREGROUND" value="9ea4a9" />
@@ -3131,14 +3131,12 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.SETEXT_HEADER" baseAttributes="MARKDOWN_NAVIGATOR.ATX_HEADER" />
     <option name="MARKDOWN_NAVIGATOR.SMARTS">
       <value>
         <option name="FOREGROUND" value="3c3f41" />
         <option name="BACKGROUND" value="ccffd7" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.SPECIAL_TEXT" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH_TEXT_BOLD_TEXT">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -28983,7 +28981,6 @@
         <option name="FOREGROUND" value="3480e2" />
       </value>
     </option>
-    <option name="MARKDOWN_NAVIGATOR.WIKI_LINK_TEXT" baseAttributes="MARKDOWN_NAVIGATOR.WIKI_LINK_REF" />
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="252621" />
