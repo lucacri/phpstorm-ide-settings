@@ -7,6 +7,7 @@
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="start/run" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="pptcron" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit-worked" type="PLAIN_TEXT" />
       <mapping pattern="hartU5amE" type="PLAIN_TEXT" />
@@ -17,14 +18,13 @@
       <mapping pattern="start_time" type="PLAIN_TEXT" />
       <mapping pattern="tmp/compiledstuff/artisan" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="ea9a2ea9640a1296e46f110037c4e22994d7e27b" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />
       <mapping pattern="02-mine" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit2" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
-      <mapping pattern="pptcron" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-cloudinit" type="PLAIN_TEXT" />
       <mapping ext="d/pptcron" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
