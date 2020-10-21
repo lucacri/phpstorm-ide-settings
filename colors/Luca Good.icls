@@ -3,13 +3,13 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-07-21T11:19:35</property>
+    <property name="modified">2020-10-21T18:21:10</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3b3c32" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="FILESTATUS_ADDED" value="aad00" />
     <option name="FILESTATUS_COPIED" value="aae00" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="34a6a7" />
