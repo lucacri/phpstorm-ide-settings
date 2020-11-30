@@ -3,12 +3,12 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-10-21T18:21:10</property>
+    <property name="modified">2020-11-30T17:47:03</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="f8f8f0" />
-    <option name="CARET_ROW_COLOR" value="3b3c32" />
+    <option name="CARET_ROW_COLOR" value="1f1f1f" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="FILESTATUS_ADDED" value="aad00" />
     <option name="FILESTATUS_COPIED" value="aae00" />
@@ -29,7 +29,7 @@
     <option name="LINE_NUMBERS_COLOR" value="6e6b68" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
     <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
-    <option name="SELECTION_BACKGROUND" value="20202" />
+    <option name="SELECTION_BACKGROUND" value="273054" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="736f5c" />
     <option name="TEARLINE_COLOR" value="c0c0c0" />
@@ -29588,7 +29588,7 @@
     </option>
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff6864" />
+        <option name="BACKGROUND" value="273054" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
