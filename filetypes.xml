@@ -14,7 +14,6 @@
       <mapping pattern="vultr-live-script" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit2" type="PLAIN_TEXT" />
       <mapping pattern="02-mine" type="PLAIN_TEXT" />
-      <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit-worked" type="PLAIN_TEXT" />
       <mapping pattern="hartU5amE" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-cloudinit" type="PLAIN_TEXT" />
