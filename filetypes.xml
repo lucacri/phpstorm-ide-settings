@@ -35,6 +35,7 @@
       <mapping ext="d/queue/run" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <mapping ext="script" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="99-web-folder" type="Bash" />
