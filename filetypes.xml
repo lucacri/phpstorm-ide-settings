@@ -22,8 +22,8 @@
       <mapping pattern="start_time" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-swarm-cloudinit" type="PLAIN_TEXT" />
-      <mapping pattern="start/run" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />
+      <mapping pattern="start/run" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="cloudinit" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
