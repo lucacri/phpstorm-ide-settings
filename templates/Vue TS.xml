@@ -6,4 +6,10 @@
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
     </context>
   </template>
+  <template name="mutation" value="try {&#10;      const dataToSend: Query_DD_Variables = {};&#10;      let res = await this.$apollo.mutate({&#10;                                      mutation:  Query_UpdateAutomation,&#10;                                      variables: dataToSend&#10;                                    });&#10;      this.$toast({&#10;                    type:         &quot;success&quot;,&#10;                    message:      &quot;The automation has been archived&quot;,&#10;                    linkRouteObj: null,&#10;                    linkText:     null&#10;                  });&#10;      this.close();&#10;    } catch (e) {&#10;      this.$toast({&#10;                    type:         &quot;error&quot;,&#10;                    message:      &quot;There was an error while archiving. Please try again&quot;,&#10;                    linkRouteObj: null,&#10;                    linkText:     null&#10;                  });&#10;    }" description="Vue Apollo Mutation" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
 </templateSet>
