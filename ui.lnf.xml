@@ -1,4 +1,8 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_SHOW_FILES" value="false" />
+    <option name="UI_FILTER_LEGALS" value="true" />
+  </component>
   <component name="UISettings">
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
