@@ -4,7 +4,7 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2021-01-18T17:31:55</property>
+    <property name="modified">2021-03-08T09:36:05</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -63,6 +63,12 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="BAD_CHARACTER">
+      <value>
+        <option name="FOREGROUND" value="ff0020" />
+        <option name="BACKGROUND" value="ffdcbf" />
+      </value>
+    </option>
     <option name="BLADE_TEXT_BLOCK_BOUNDARY">
       <value>
         <option name="FOREGROUND" value="56c7e4" />
@@ -99,6 +105,12 @@
         <option name="FOREGROUND" value="98a188" />
       </value>
     </option>
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="c7c1a" />
+        <option name="BACKGROUND" value="85f399" />
+      </value>
+    </option>
     <option name="CONSOLE_GREEN_OUTPUT">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
@@ -133,6 +145,18 @@
       <value>
         <option name="FOREGROUND" value="65d7ed" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CONSOLE_WHITE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="997605" />
+        <option name="BACKGROUND" value="ffe055" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -189,6 +213,18 @@
     <option name="CSS.URL">
       <value>
         <option name="FOREGROUND" value="66d9ef" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="6060fc" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="94aff1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
@@ -317,13 +353,13 @@
     </option>
     <option name="DIFF_CONFLICT">
       <value>
-        <option name="BACKGROUND" value="943332" />
+        <option name="BACKGROUND" value="c68d01" />
         <option name="ERROR_STRIPE_COLOR" value="ff6647" />
       </value>
     </option>
     <option name="DIFF_DELETED">
       <value>
-        <option name="BACKGROUND" value="5d2d28" />
+        <option name="BACKGROUND" value="83382c" />
         <option name="ERROR_STRIPE_COLOR" value="744a34" />
       </value>
     </option>
@@ -487,6 +523,18 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="7a7a7a" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="efefef" />
+        <option name="BACKGROUND" value="bcdaf7" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
+      <value>
+        <option name="FOREGROUND" value="dbdbdb" />
+        <option name="BACKGROUND" value="cccccc" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
@@ -693,7 +741,7 @@
     </option>
     <option name="LOG_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="7c81ff" />
+        <option name="FOREGROUND" value="807f7f" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">
