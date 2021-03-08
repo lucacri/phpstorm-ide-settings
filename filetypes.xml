@@ -5,7 +5,6 @@
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".huskyrc" type="JSON" />
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="phpcron" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
@@ -24,8 +23,8 @@
       <mapping pattern="start_time" type="PLAIN_TEXT" />
       <mapping pattern="known_hosts" type="PLAIN_TEXT" />
       <mapping pattern="digitalocean-swarm-cloudinit" type="PLAIN_TEXT" />
-      <mapping pattern="start/run" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />
+      <mapping pattern="start/run" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping ext="cloudinit" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
