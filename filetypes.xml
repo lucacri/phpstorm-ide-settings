@@ -5,6 +5,7 @@
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".huskyrc" type="JSON" />
+      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="phpcron" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
