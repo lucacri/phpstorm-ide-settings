@@ -32,7 +32,9 @@
       <mapping ext="d/99-web-folder" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="d/pptcron" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="icls" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="d/queue/run" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
