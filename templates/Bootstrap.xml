@@ -1,5 +1,5 @@
 <templateSet group="Bootstrap">
-  <template name="bspanel" value="&lt;div class=&quot;panel panel-default&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;$TITLE$&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    $CONTENT$&#10;  &lt;/div&gt;&#10;&lt;/div&gt;&#10;" description="Panel in bootstrap" toReformat="true" toShortenFQNames="true">
+  <template name="bspanel" value="&lt;div class=&quot;panel panel-default&quot;&gt;&#10;  &lt;div class=&quot;panel-heading&quot;&gt;&#10;    &lt;h3 class=&quot;panel-title&quot;&gt;$TITLE$&lt;/h3&gt;&#10;  &lt;/div&gt;&#10;  &lt;div class=&quot;panel-body&quot;&gt;&#10;    $CONTENT$&#10;  &lt;/div&gt;&#10;&lt;/div&gt;&#10;" description="Panel in bootstrap" toReformat="true" toShortenFQNames="true" deactivated="true">
     <variable name="TITLE" expression="" defaultValue="Title" alwaysStopAt="true" />
     <variable name="CONTENT" expression="" defaultValue="CONTENT" alwaysStopAt="true" />
     <context>
