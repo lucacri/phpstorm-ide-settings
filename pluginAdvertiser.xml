@@ -22,6 +22,16 @@
                       <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="DBNMethodRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Method" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
+                  <entry key="DBNStatementRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DB Statement" pluginName="Database Navigator" pluginId="DBN" />
+                    </value>
+                  </entry>
                   <entry key="DatabaseScript">
                     <value>
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
