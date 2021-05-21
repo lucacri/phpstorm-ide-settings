@@ -41,4 +41,10 @@
       <option name="PHP" value="true" />
     </context>
   </template>
+  <template name="iicon" value="&lt;span class=&quot;iconify h-full w-full&quot; data-icon=&quot;ph-$END$-duotone&quot;&gt;&lt;/span&gt;" description="Icon from iconify" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
+    </context>
+  </template>
 </templateSet>
