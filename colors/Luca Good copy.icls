@@ -4,7 +4,7 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2021-06-08T20:05:56</property>
+    <property name="modified">2021-06-14T11:31:26</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -121,8 +121,8 @@
     </option>
     <option name="CONSOLE_GREEN_BRIGHT_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="b8b8b8" />
-        <option name="BACKGROUND" value="85f399" />
+        <option name="FOREGROUND" value="ba6666" />
+        <option name="BACKGROUND" value="7ffa27" />
       </value>
     </option>
     <option name="CONSOLE_GREEN_OUTPUT">
@@ -137,7 +137,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
+        <option name="FOREGROUND" value="faefcf" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
@@ -152,7 +152,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ffe792" />
+        <option name="FOREGROUND" value="757474" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
@@ -170,7 +170,7 @@
     <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="997605" />
-        <option name="BACKGROUND" value="ffe055" />
+        <option name="BACKGROUND" value="ffe56e" />
       </value>
     </option>
     <option name="CONSOLE_YELLOW_OUTPUT">
@@ -747,6 +747,11 @@
     <option name="LOCAL_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="a6e22e" />
+      </value>
+    </option>
+    <option name="LOG_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="LOG_ERROR_OUTPUT">
