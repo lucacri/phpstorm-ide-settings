@@ -98,6 +98,8 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta alt enter" />
   </action>
+  <action id="ResizeToolWindowLeft" />
+  <action id="ResizeToolWindowRight" />
   <action id="Runner.CloseAllUnpinnedViews">
     <keyboard-shortcut first-keystroke="shift meta alt w" />
   </action>
