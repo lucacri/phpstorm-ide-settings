@@ -8,8 +8,8 @@
     <driver id="mysql">
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
     </driver>
-    <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.2" />
+    <driver id="postgresql" dialect="Cockroach">
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
     </driver>
     <driver id="cockroach">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
