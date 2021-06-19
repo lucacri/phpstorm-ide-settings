@@ -1,0 +1,10 @@
+<templateSet group="Luca Cockroach">
+  <template name="cockinttobool" value="ALTER TABLE $TABLE$ ADD COLUMN $FIELD$_f BOOL NOT NULL AS ($FIELD$::BOOL) STORED;&#10;&#10;ALTER TABLE $TABLE$&#10;&#9;ALTER COLUMN $FIELD$_f DROP STORED,&#10;&#9;RENAME COLUMN $FIELD$ TO $FIELD$_bk,&#10;&#9;RENAME COLUMN $FIELD$_f TO $FIELD$,&#10;&#9;ALTER COLUMN $FIELD$ SET DEFAULT false;&#10;ALTER TABLE $TABLE$&#9;DROP COLUMN IF EXISTS $FIELD$_bk;" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL_CODE_COCKROACH" value="true" />
+      <option name="SQL_STATEMENT_COCKROACH" value="true" />
+    </context>
+  </template>
+</templateSet>
