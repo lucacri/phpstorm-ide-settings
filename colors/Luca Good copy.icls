@@ -4,7 +4,7 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2021-06-24T11:47:07</property>
+    <property name="modified">2021-06-24T14:13:37</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -29665,7 +29665,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="252621" />
-        <option name="BACKGROUND" value="ffe792" />
+        <option name="BACKGROUND" value="6c5638" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
