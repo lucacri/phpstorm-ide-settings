@@ -6,4 +6,11 @@
       <option name="SQL_CODE_COCKROACH" value="true" />
     </context>
   </template>
+  <template name="cocktimestamp" value="ALTER TABLE $TABLE$ ADD COLUMN $FIELD$_f timestamptz AS ($FIELD$::timestamptz) STORED FAMILY f1;&#10;ALTER TABLE $TABLE$ ALTER COLUMN $FIELD$_f DROP STORED, RENAME COLUMN $FIELD$ TO $FIELD$_bk, RENAME COLUMN $FIELD$_f TO $FIELD$;&#10;ALTER TABLE $TABLE$ DROP COLUMN IF EXISTS $FIELD$_bk;" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL_CODE_COCKROACH" value="true" />
+    </context>
+  </template>
 </templateSet>
