@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myReportMouse" value="false" />
+    <option name="myShellIntegration" value="false" />
+    <option name="myTabName" value="Local" />
+  </component>
+</application>
