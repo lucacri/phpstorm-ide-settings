@@ -1,0 +1,9 @@
+<application>
+  <component name="PlantUmlSettingsNew">
+    <option name="PLANTUML_LIMIT_SIZE" value="" />
+    <option name="customPlantumlJarPath" value="" />
+    <option name="includedPaths" value="" />
+    <option name="lastBundledVersion" value="1.2021.4" />
+    <option name="serverPrefix" value="https://gitlab.critel.li/-/plantuml" />
+  </component>
+</application>

@@ -1,43 +1,10 @@
 <templateSet group="Luca">
-  <template name="b4-input" value="&lt;div class=&quot;form-group&quot;&gt;&#10;                            &lt;label for=&quot;$FIELD$&quot;&gt;$NAME$&lt;/label&gt;&#10;                            &lt;input type=&quot;text&quot;&#10;                                   class=&quot;form-control {{ $errors-&gt;has('$FIELD$') ? 'is-invalid':'' }}&quot; name=&quot;$FIELD$&quot;&#10;                                   required&#10;                                   placeholder=&quot;&quot;/&gt;&#10;                            &lt;div class=&quot;invalid-feedback&quot;&gt;&#10;                                {{ $errors-&gt;first('$FIELD$') }}&#10;                            &lt;/div&gt;&#10;                        &lt;/div&gt;" description="Input with validation" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="title" alwaysStopAt="true" />
-    <variable name="FIELD" expression="snakeCase(NAME)" defaultValue="" alwaysStopAt="false" />
-    <context>
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="JAVA_SCRIPT" value="false" />
-      <option name="JSON" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="SQL" value="false" />
-      <option name="Twig" value="false" />
-      <option name="TypeScript" value="false" />
-      <option name="Vue" value="false" />
-      <option name="XML" value="false" />
-    </context>
-  </template>
   <template name="phptest" value="/**&#10;* $TEST_NAME$&#10;* @returns void&#10;* @covers ::$COVERS$&#10;**/&#10;public function test_$TEST_BETTER$() :void{&#10;    $END$&#10;}&#10;" description="PHPUnit test" toReformat="true" toShortenFQNames="true">
     <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="COVERS" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TEST_BETTER" expression="snakeCase(TEST_NAME)" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="PHP" value="true" />
-    </context>
-  </template>
-  <template name="faicon" value="&lt;font-awesome-icon icon=&quot;$FIELD$&quot;&gt;&lt;/font-awesome-icon&gt;" description="Font awesom icon vue" toReformat="true" toShortenFQNames="true">
-    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="Vue" value="true" />
-    </context>
-  </template>
-  <template name="faicons" value="&lt;font-awesome-icon :icon=&quot;['$FIELD$', '$FIELD2$']&quot;&gt;&lt;/font-awesome-icon&gt;" description="Font awesom icons vue" toReformat="true" toShortenFQNames="true">
-    <variable name="FIELD" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="FIELD2" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="HTML" value="true" />
-      <option name="JAVA_SCRIPT" value="true" />
-      <option name="Vue" value="true" />
     </context>
   </template>
   <template name="test" value="test('$TESTNAME$', () =&gt; {&#10;    $END$&#10;})" description="Jest Test" toReformat="false" toShortenFQNames="true">
@@ -72,6 +39,12 @@
     <variable name="TESTED_CLASS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="iicon" value="&lt;span class=&quot;iconify h-full w-full&quot; data-icon=&quot;ph-$END$-duotone&quot;&gt;&lt;/span&gt;" description="Icon from iconify" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="VUE_INSIDE_TAG" value="true" />
+      <option name="VUE_TEMPLATE" value="true" />
     </context>
   </template>
 </templateSet>

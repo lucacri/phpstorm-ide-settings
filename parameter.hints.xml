@@ -1,7 +1,10 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
-    <showIfParamNameContained value="true" />
-    <showWhenMultipleParamsWithSameType value="false" />
+    <blacklists>
+      <blacklist language="PHP">
+        <added pattern="\Eloquent.where(column,operator,value,boolean)" />
+      </blacklist>
+    </blacklists>
+    <option id="sql.show.column.names.in.insert.values" value="true" />
   </component>
 </application>

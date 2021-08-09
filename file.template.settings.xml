@@ -1,8 +1,0 @@
-<application>
-  <component name="ExportableFileTemplateSettings">
-    <internal_templates>
-      <template name="PHPUnit 6 Test.php" reformat="true" live-template-enabled="true" enabled="true" />
-      <template name="PHPUnit Test.php" reformat="true" live-template-enabled="true" enabled="true" />
-    </internal_templates>
-  </component>
-</application>
