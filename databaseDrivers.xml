@@ -12,7 +12,7 @@
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.2" />
     </driver>
     <driver id="cockroach">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.5" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
     <driver id="sqlite.xerial">
       <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.31.1" />
