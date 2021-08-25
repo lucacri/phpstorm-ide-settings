@@ -51,4 +51,10 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="v3setup" value="interface Props {&#10;  msg?: string&#10;  labels?: string[]&#10;}&#10;const props = withDefaults(defineProps&lt;Props&gt;(), {&#10;  msg: 'hello',&#10;  labels: () =&gt; ['one', 'two']&#10;})&#10;&#10;import { ref, useSlots, useAttrs  } from 'vue';&#10;&#10;const slots = useSlots();&#10;const attrs = useAttrs();&#10;&#10;const emit = defineEmits([]);" description="Vue Component Setup" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
