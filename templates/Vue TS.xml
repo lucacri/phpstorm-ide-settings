@@ -67,4 +67,11 @@
       <option name="VUE_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="v3compModel" value="const $ref$ = computed({&#10;                                 get: () =&gt; props.$ref$,&#10;                                 set: (val) =&gt; emit(&quot;update:$ref$&quot;, val)&#10;                               });" description="Vue Computed Model" toReformat="true" toShortenFQNames="true">
+    <variable name="ref" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
