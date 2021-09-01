@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '~/Sites/HM-WebUI/webui/src/components/Segment/Edit/Categories/SingleCategories [webui]'" />
-    <option name="defaultScopeName" value="Directory '~/Sites/HM-WebUI/webui/src/components/Segment/Edit/Categories/SingleCategories [webui]'" />
-    <option name="SEARCH_SCOPE" value="Directory '~/Sites/HM-WebUI/webui/src/components/Segment/Edit/Categories/SingleCategories [webui]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
