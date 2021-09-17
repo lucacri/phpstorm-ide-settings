@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
       <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="Code/Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
