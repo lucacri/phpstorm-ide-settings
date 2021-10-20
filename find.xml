@@ -1,7 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="selection" />
+    <option name="defaultScopeName" value="selection" />
+    <option name="SEARCH_SCOPE" value="selection" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.php4</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php5</mask>
+    <mask>*.ctp</mask>
+    <mask>*.hphp</mask>
+    <mask>*.module</mask>
+    <mask>*.inc</mask>
+    <mask>*.php</mask>
   </component>
 </application>
