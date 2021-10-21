@@ -1,0 +1,25 @@
+<application>
+  <component name="PipelineViewerConfigApp">
+    <option name="mappings">
+      <list>
+        <Mapping>
+          <option name="gitlabProjectId" value="112" />
+          <option name="host" value="https://gitlab.critel.li" />
+          <option name="projectName" value="HelloManagers-CRM" />
+          <option name="projectPath" value="HelloManagers/HelloManagers" />
+          <option name="remote" value="git@gitlab.critel.li:HelloManagers/HelloManagers.git" />
+        </Mapping>
+        <Mapping>
+          <option name="gitlabProjectId" value="192" />
+          <option name="host" value="https://gitlab.critel.li" />
+          <option name="projectName" value="WebUI" />
+          <option name="projectPath" value="HelloManagers/webui" />
+          <option name="remote" value="git@gitlab.critel.li:HelloManagers/webui.git" />
+        </Mapping>
+      </list>
+    </option>
+    <option name="mrPipelineDisplayType" value="TITLE" />
+    <option name="showNotificationForWatchedBranches" value="false" />
+    <option name="urlOpenerCommand" value="" />
+  </component>
+</application>
