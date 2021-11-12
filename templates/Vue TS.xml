@@ -12,12 +12,6 @@
       <option name="Vue" value="true" />
     </context>
   </template>
-  <template name="mutationWithDelete" value="try {&#10;      const dataToSend: QL_Query_MutationVariables = {};&#10;      let res = await this.$apollo.mutate({&#10;                                      mutation:  Query_UpdateAutomation,&#10;                                      variables: dataToSend,&#10;                                      update:    (store, {data}) =&gt; {&#10;                                              const dataInCache = store.readQuery({&#10;                                                                                    query:     Query_Team_Pending_Invitations,&#10;                                                                                    variables: {&#10;                                                                                      team_id: this.current_team.id&#10;                                                                                    }&#10;                                                                                  });&#10;                                              dataInCache.team_pending_invitations = dataInCache.team_pending_invitations.filter(&#10;                                                  t =&gt; {&#10;                                                    return t.id != this.invitation.id;&#10;                                                  });&#10;&#10;                                              store.writeQuery({&#10;                                                                 query:     Query_Team_Pending_Invitations,&#10;                                                                 variables: {&#10;                                                                   team_id: this.current_team.id&#10;                                                                 },&#10;                                                                 data:      dataInCache&#10;                                                               });&#10;                                            }&#10;                                    });&#10;      this.$toast({&#10;                    type:         &quot;success&quot;,&#10;                    message:      &quot;The automation has been archived&quot;,&#10;                    linkRouteObj: null,&#10;                    linkText:     null&#10;                  });&#10;      this.close();&#10;    } catch (e) {&#10;      this.$toast({&#10;                    type:         &quot;error&quot;,&#10;                    message:      &quot;There was an error while archiving. Please try again&quot;,&#10;                    linkRouteObj: null,&#10;                    linkText:     null&#10;                  });&#10;    }" description="Vue Apollo Mutation" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="TypeScript" value="true" />
-      <option name="Vue" value="true" />
-    </context>
-  </template>
   <template name="v3prop" value="$propName$: {&#10;  type: $type$,&#10;  required: $required$,&#10;  default: () =&gt; $default$$END$&#10; }," description="Vue prop" toReformat="true" toShortenFQNames="true">
     <variable name="propName" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="type" expression="" defaultValue="Boolean" alwaysStopAt="true" />
@@ -79,6 +73,31 @@
     <context>
       <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
       <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="v3mutation" value="const $mutation$ = useUpdateClientMutation({});&#10;&#10;$mutation$.onDone(() =&gt; {&#10;  sending.value = false;&#10;  $toast({&#10;           type:         &quot;success&quot;,&#10;           message:      $successmessage$,&#10;           linkRouteObj: null,&#10;           linkText:     null&#10;         });&#10;});&#10;&#10;$mutation$.onError(() =&gt; {&#10;  sending.value = false;&#10;  $toast({&#10;           type:         &quot;error&quot;,&#10;           message:      &quot;There was a problem with your request. Please try again&quot;,&#10;           linkRouteObj: null,&#10;           linkText:     null&#10;         });&#10;});&#10;&#10;const $method$ = () =&gt; {&#10;  sending.value = true;&#10;    $mutation$.mutate({&#10;                          id:                  client.value.id,&#10;                       &#10;                        });&#10;  }&#10;};" description="Vue Apollo Mutation" toReformat="true" toShortenFQNames="true">
+    <variable name="mutation" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="successmessage" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="Vue" value="true" />
+    </context>
+  </template>
+  <template name="v3toRef" value="const $name$ = toRef(props, &quot;$ref$&quot;);" description="Vue toRef" toReformat="true" toShortenFQNames="true">
+    <variable name="ref" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="name" expression="ref" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="VUE_COMPONENT_DESCRIPTOR" value="true" />
+      <option name="VUE_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="v3routes" value="const {routeList} = routesList();" description="Routes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+      <option name="VUE_INSIDE_TAG" value="false" />
+      <option name="VUE_TEMPLATE" value="false" />
+      <option name="Vue" value="true" />
     </context>
   </template>
 </templateSet>
