@@ -100,4 +100,10 @@
       <option name="Vue" value="true" />
     </context>
   </template>
+  <template name="v3name-component" value="&lt;script lang=&quot;ts&quot;&gt;&#10;export default {&#10;  name: &quot;$name$&quot;&#10;};&#10;&lt;/script&gt;" description="Vue toRef" toReformat="true" toShortenFQNames="true">
+    <variable name="name" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="VUE_TOP_LEVEL" value="true" />
+    </context>
+  </template>
 </templateSet>
