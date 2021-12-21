@@ -9,13 +9,13 @@
       <artifact id="MySQL Connector/J" name="MySQL Connector/J" use="true" version="5.1.46" />
     </driver>
     <driver id="postgresql">
-      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.2" />
+      <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
     <driver id="cockroach">
       <artifact id="PostgreSQL" name="PostgreSQL" use="true" version="42.2.22" />
     </driver>
     <driver id="sqlite.xerial">
-      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.31.1" />
+      <artifact id="Xerial SQLiteJDBC" name="Xerial SQLiteJDBC" use="true" version="3.34.0" />
     </driver>
     <driver id="f05243ab-a62f-4c5a-863c-67fde2ddcf09" based-on="mysql.base" name="MySQL Vitess">
       <constraints>

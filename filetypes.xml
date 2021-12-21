@@ -3,6 +3,8 @@
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs" />
     <extensionMap>
       <mapping pattern="CNAME" type="AUTO_DETECTED" />
+      <mapping pattern="crontab" type="AUTO_DETECTED" />
+      <mapping pattern="Code/Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
@@ -38,10 +40,14 @@
       <mapping ext="d/queue/run" type="PLAIN_TEXT" />
       <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping ext="webp" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="" type="PLAIN_TEXT" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="script" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="99-web-folder" type="Bash" />
