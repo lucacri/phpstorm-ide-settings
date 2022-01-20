@@ -6,7 +6,6 @@
       <mapping pattern="crontab" type="AUTO_DETECTED" />
       <mapping pattern="Code/Dockerfile" type="AUTO_DETECTED" />
       <mapping ext="docker" type="Dockerfile" />
-      <mapping ext="webp" type="Image" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern="phpcron" type="PLAIN_TEXT" />
