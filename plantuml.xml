@@ -3,7 +3,7 @@
     <option name="PLANTUML_LIMIT_SIZE" value="" />
     <option name="customPlantumlJarPath" value="" />
     <option name="includedPaths" value="" />
-    <option name="lastBundledVersion" value="1.2021.4" />
-    <option name="serverPrefix" value="https://gitlab.critel.li/-/plantuml" />
+    <option name="lastBundledVersion" value="1.2022.0" />
+    <option name="serverPrefix" value="https://plantuml.svcs.critel.li" />
   </component>
 </application>
