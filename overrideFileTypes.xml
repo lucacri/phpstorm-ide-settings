@@ -1,5 +1,32 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/_lighthouse-directives.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/auth.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schema.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/appointments.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/automations.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/billing.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/catalog.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/class.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/client.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/discussions.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/emailpreview.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/excluded_events.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/forms.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/invitations.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/notes.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/notifications.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/placeholders.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/prospect.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/quick_responses.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/sales.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/status.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/tag.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/team.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/todos.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/user.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/virtualClass.graphql" value="GraphQL" />
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/visit.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/phpstan.neon" value="YAML" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-New-Home-Page/src/assets/images/homepage/top-image.webp" value="Image" />
   </component>
