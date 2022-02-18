@@ -5,4 +5,9 @@
       <entry key="PlantUMLLanguageExtension" value="true" />
     </enabledExtensions>
   </component>
+  <component name="MarkdownExtensionsSettings">
+    <enabledExtensions>
+      <entry key="PlantUMLLanguageExtension" value="true" />
+    </enabledExtensions>
+  </component>
 </application>
