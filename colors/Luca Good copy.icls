@@ -4,7 +4,7 @@
     <property name="created">2019-04-16T15:49:03</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2021-10-15T12:00:14</property>
+    <property name="modified">2022-02-11T14:46:12</property>
     <property name="originalScheme">Monokai-Sublime</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -35,6 +35,7 @@
     <option name="INDENT_GUIDE" value="494848" />
     <option name="LINE_NUMBERS_COLOR" value="6e6b68" />
     <option name="LOOKUP_COLOR" value="" />
+    <option name="NOTIFICATION_BACKGROUND" value="787628" />
     <option name="RIGHT_MARGIN_COLOR" value="333333" />
     <option name="SELECTED_TEARLINE_COLOR" value="c0c0c0" />
     <option name="SELECTION_BACKGROUND" value="273054" />
