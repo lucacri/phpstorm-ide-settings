@@ -1,5 +1,6 @@
 <application>
   <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/app/Forms/GraphQL/forms.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/_lighthouse-directives.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/auth.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schema.graphql" value="GraphQL" />
@@ -12,7 +13,6 @@
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/discussions.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/emailpreview.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/excluded_events.graphql" value="GraphQL" />
-    <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/forms.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/invitations.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/notes.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/graphql/schemas/notifications.graphql" value="GraphQL" />
