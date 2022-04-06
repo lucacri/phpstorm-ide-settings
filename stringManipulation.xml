@@ -1,9 +1,9 @@
 <application>
   <component name="StringManipulationState">
-    <option name="donationNagger">
-      <DonationNagger>
-        <option name="actionsExecuted" value="24" />
-      </DonationNagger>
+    <option name="lastAction">
+      <UniversalActionModel>
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.switching.ToPascalCaseOrCamelCaseAction" />
+      </UniversalActionModel>
     </option>
     <option name="version" value="1" />
   </component>
