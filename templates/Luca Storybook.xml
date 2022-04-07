@@ -1,0 +1,8 @@
+<templateSet group="Luca Storybook">
+  <template name="sbplay" value=".play = async ({args, canvasElement}: {args: any, canvasElement: HTMLElement}) =&gt; {&#10;&#9;const canvasElement: HTMLElement = data.canvasElement;&#10;&#9;const canvas = within(canvasElement);&#10;&#9;const canvasParent = within(canvasElement.parentElement);&#10;&#9;await userEvent.click(await canvas.queryAllByRole(&quot;button&quot;)[1]);&#10;&#9;await waitFor(async () =&gt; {&#10;&#9;&#9;const butts = await canvasParent.findByText(&quot;Close&quot;);&#10;&#9;&#9;expect(butts).not.toBeNull();&#10;&#9;}, {timeout: 3000, interval: 250});&#10;&#10;&#9;await userEvent.click(await canvasParent.findByText(&quot;Close&quot;));&#10;&#9;await waitFor(() =&gt; expect(data.args.onDelete).not.toHaveBeenCalled());&#10;};" description="StoryBook Play" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
