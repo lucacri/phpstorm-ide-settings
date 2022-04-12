@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="My Code" />
     <option name="defaultScopeName" value="My Code" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="My Code" />
     <mask>*.css</mask>
     <mask>*.html</mask>
