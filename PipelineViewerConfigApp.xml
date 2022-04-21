@@ -1,5 +1,10 @@
 <application>
   <component name="PipelineViewerConfigApp">
+    <option name="ignoredRemotes">
+      <list>
+        <option value="git@gitlab.critel.li:HelloManagers/phone-app.git" />
+      </list>
+    </option>
     <option name="mappings">
       <list>
         <Mapping>
