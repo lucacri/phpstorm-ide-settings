@@ -31,5 +31,6 @@
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/programmatic-types.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-CRM/schema-directives.graphql" value="GraphQL" />
     <file url="file://$USER_HOME$/Sites/HelloManagers-New-Home-Page/src/assets/images/homepage/top-image.webp" value="Image" />
+    <file url="file://$USER_HOME$/Sites/statamic/community/resources/views/home.antlers.html" value="Handlebars/Mustache" />
   </component>
 </application>
