@@ -12,24 +12,20 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="cdcb8889-10c1-46bd-84d4-30b8700e05ae" name="Current" home="/usr/local/opt/php@8.0/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/Cellar/xdebug@8.0/3.1.3_1/xdebug.so" />
+      <interpreter id="cdcb8889-10c1-46bd-84d4-30b8700e05ae" name="Current" home="/usr/local/opt/php/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/xdebug@8.1/xdebug.so" />
       <interpreter id="3000e930-bc87-4ac9-ab69-9bbfe9d38476" name="PHP 8" home="/usr/local/opt/php@8.0/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/Cellar/xdebug@8.0/3.1.3_1/xdebug.so" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 8">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@8.0/8.0.17/bin/php-cgi" php_cli="/usr/local/Cellar/php@8.0/8.0.17/bin/php" path_separator=":" version="8.0.17">
-          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/igbinary.ini, /usr/local/etc/php/8.0/conf.d/imagick.ini, /usr/local/etc/php/8.0/conf.d/msgpack.ini, /usr/local/etc/php/8.0/conf.d/opcache.ini, /usr/local/etc/php/8.0/conf.d/pcov.ini, /usr/local/etc/php/8.0/conf.d/redis.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@8.0/8.0.20/bin/php-cgi" php_cli="/usr/local/Cellar/php@8.0/8.0.20/bin/php" path_separator=":" version="8.0.20">
+          <additional_php_ini />
           <configuration_file />
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@8.0/8.0.17/share/php@8.0/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@8.0/8.0.20/share/php@8.0/pear" />
           </configuration_options>
-          <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.3">
-              <debug_extensions />
-            </debugger_info>
-          </debuggers>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="FFI" />
@@ -39,7 +35,6 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
@@ -57,20 +52,16 @@
             <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
-            <extension name="igbinary" />
-            <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
             <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
-            <extension name="msgpack" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
             <extension name="odbc" />
             <extension name="openssl" />
             <extension name="pcntl" />
-            <extension name="pcov" />
             <extension name="pcre" />
             <extension name="pdo_dblib" />
             <extension name="pdo_mysql" />
@@ -81,7 +72,6 @@
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
-            <extension name="redis" />
             <extension name="session" />
             <extension name="shmop" />
             <extension name="soap" />
@@ -94,7 +84,6 @@
             <extension name="sysvshm" />
             <extension name="tidy" />
             <extension name="tokenizer" />
-            <extension name="xdebug" />
             <extension name="xml" />
             <extension name="xmlreader" />
             <extension name="xmlwriter" />
@@ -105,14 +94,14 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Current">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@8.0/8.0.17/bin/php-cgi" php_cli="/usr/local/Cellar/php@8.0/8.0.17/bin/php" path_separator=":" version="8.0.17">
-          <additional_php_ini>/usr/local/etc/php/8.0/conf.d/igbinary.ini, /usr/local/etc/php/8.0/conf.d/imagick.ini, /usr/local/etc/php/8.0/conf.d/msgpack.ini, /usr/local/etc/php/8.0/conf.d/opcache.ini, /usr/local/etc/php/8.0/conf.d/pcov.ini, /usr/local/etc/php/8.0/conf.d/redis.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.7/bin/php" path_separator=":" version="8.1.7">
+          <additional_php_ini>/usr/local/etc/php/8.1/conf.d/igbinary.ini, /usr/local/etc/php/8.1/conf.d/imagick.ini, /usr/local/etc/php/8.1/conf.d/msgpack.ini, /usr/local/etc/php/8.1/conf.d/opcache.ini, /usr/local/etc/php/8.1/conf.d/pcov.ini, /usr/local/etc/php/8.1/conf.d/redis.ini</additional_php_ini>
           <configuration_file />
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@8.0/8.0.17/share/php@8.0/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.7/share/php/pear" />
           </configuration_options>
           <debuggers>
-            <debugger_info debugger="xdebug" debugger_version="3.1.3">
+            <debugger_info debugger="xdebug" debugger_version="3.1.5">
               <debug_extensions />
             </debugger_info>
           </debuggers>
@@ -163,7 +152,6 @@
             <extension name="pdo_pgsql" />
             <extension name="pdo_sqlite" />
             <extension name="pgsql" />
-            <extension name="phpdbg_webhelper" />
             <extension name="posix" />
             <extension name="pspell" />
             <extension name="readline" />
