@@ -12,7 +12,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="cdcb8889-10c1-46bd-84d4-30b8700e05ae" name="Current" home="/usr/local/opt/php/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/opt/xdebug@8.1/xdebug.so" />
+      <interpreter id="cdcb8889-10c1-46bd-84d4-30b8700e05ae" name="Current" home="/opt/homebrew/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="3000e930-bc87-4ac9-ab69-9bbfe9d38476" name="PHP 8" home="/usr/local/opt/php@8.0/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/Cellar/xdebug@8.0/3.1.3_1/xdebug.so" />
     </interpreters>
   </component>
@@ -94,11 +94,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="Current">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/8.1.7/bin/php-cgi" php_cli="/usr/local/Cellar/php/8.1.7/bin/php" path_separator=":" version="8.1.7">
-          <additional_php_ini>/usr/local/etc/php/8.1/conf.d/igbinary.ini, /usr/local/etc/php/8.1/conf.d/imagick.ini, /usr/local/etc/php/8.1/conf.d/msgpack.ini, /usr/local/etc/php/8.1/conf.d/opcache.ini, /usr/local/etc/php/8.1/conf.d/pcov.ini, /usr/local/etc/php/8.1/conf.d/redis.ini</additional_php_ini>
-          <configuration_file />
+        <phpinfo binary_type="PHP" php_cgi="/opt/homebrew/Cellar/php/8.1.9/bin/php-cgi" php_cli="/opt/homebrew/Cellar/php/8.1.9/bin/php" path_separator=":" version="8.1.9">
+          <additional_php_ini>/opt/homebrew/etc/php/8.1/conf.d/20-igbinary.ini, /opt/homebrew/etc/php/8.1/conf.d/20-msgpack.ini, /opt/homebrew/etc/php/8.1/conf.d/ext-opcache.ini, /opt/homebrew/etc/php/8.1/conf.d/imagick.ini, /opt/homebrew/etc/php/8.1/conf.d/pcov.ini, /opt/homebrew/etc/php/8.1/conf.d/redis.ini, /opt/homebrew/etc/php/8.1/conf.d/xdebug.ini</additional_php_ini>
+          <configuration_file>/opt/homebrew/etc/php/8.1/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/8.1.7/share/php/pear" />
+            <configuration_option name="include_path" value=".:/opt/homebrew/Cellar/php/8.1.9/share/php/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="3.1.5">
