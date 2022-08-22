@@ -1,5 +1,6 @@
 <code_scheme name="mine good" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <option name="ENABLE_SECOND_REFORMAT" value="true" />
   <option name="SOFT_MARGINS" value="120" />
   <CssCodeStyleSettings>
     <option name="SPACE_AFTER_COLON" value="false" />
