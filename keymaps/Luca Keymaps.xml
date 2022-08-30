@@ -90,6 +90,7 @@
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="shift meta u" />
     <keyboard-shortcut first-keystroke="alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta close_bracket" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -103,6 +104,7 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta open_bracket" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
