@@ -4,6 +4,8 @@
       <map>
         <entry key="confirm.rerun.with.termination" value="false" />
         <entry key="show.diff.as.editor.tab" value="false" />
+        <entry key="terminal.buffer.max.lines.count" value="500" />
+        <entry key="terminal.type.ahead" value="false" />
       </map>
     </option>
   </component>
