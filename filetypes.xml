@@ -28,26 +28,26 @@
       <mapping pattern="pptcron" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudinit" type="PLAIN_TEXT" />
       <mapping pattern="vultr-cloudconfig" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="PLAIN_TEXT" />
-      <mapping ext="cloudinit" type="PLAIN_TEXT" />
-      <mapping ext="mmdb" type="PLAIN_TEXT" />
-      <mapping ext="partial" type="PLAIN_TEXT" />
-      <mapping ext="d/99-web-folder" type="PLAIN_TEXT" />
-      <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="d/pptcron" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="icls" type="PLAIN_TEXT" />
-      <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="d/queue/run" type="PLAIN_TEXT" />
-      <mapping ext="ext" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="" type="PLAIN_TEXT" />
+      <mapping ext="icls" type="PLAIN_TEXT" />
+      <mapping ext="ext" type="PLAIN_TEXT" />
+      <mapping ext="mmdb" type="PLAIN_TEXT" />
+      <mapping ext="key" type="PLAIN_TEXT" />
+      <mapping ext="cloudinit" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="d/99-web-folder" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="d/pptcron" type="PLAIN_TEXT" />
+      <mapping ext="partial" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="d/queue/run" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="neon" type="PLAIN_TEXT" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="*.antlers.html" type="Twig" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="script" type="Bash" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="99-web-folder" type="Bash" />
