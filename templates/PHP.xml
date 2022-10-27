@@ -46,7 +46,7 @@
       <option name="PHP" value="true" />
     </context>
   </template>
-  <template name="fori" value="for ($x = 0; $x &lt;= 10; $x++) {&#10;  echo &quot;The number is: $x &lt;br&gt;&quot;;&#10;} " toReformat="false" toShortenFQNames="true">
+  <template name="fori" value="for ($x = 0; $x &lt;= 10; $x++) {&#10;  echo &quot;The number is: $x &lt;br&gt;&quot;;&#10;} " description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="PHP Expression" value="true" />
       <option name="PHP Statement" value="true" />
