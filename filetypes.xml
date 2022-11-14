@@ -45,6 +45,7 @@
       <mapping ext="neon" type="PLAIN_TEXT" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="*.antlers.html" type="Twig" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="ng" approved="true" type="HTML" />
       <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
