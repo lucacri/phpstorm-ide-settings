@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="sms opt intent" />
+    <option name="defaultScopeName" value="sms opt intent" />
+    <option name="SEARCH_SCOPE" value="sms opt intent" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
