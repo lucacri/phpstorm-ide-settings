@@ -60,5 +60,6 @@
     <local-interpreter path="/usr/local/Cellar/node/0.10.32/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="/opt/homebrew/bin/node" excluded="true" />
   </component>
 </application>

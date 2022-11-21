@@ -121,5 +121,6 @@
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="ShowUmlDiagram" />
   <action id="ShowUmlDiagramPopup" />
+  <action id="UsageFiltering.ReadAccess" />
   <action id="WebOpenInAction" />
 </keymap>
