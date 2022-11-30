@@ -1,19 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.lucacri.dyndns-server.com:cloaker/cloaker.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.lucacri.dyndns-server.com:HelloManagers/HelloManagers.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Sites" />
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
     <option name="LABELS_LEFT_ALIGNED" value="true" />
