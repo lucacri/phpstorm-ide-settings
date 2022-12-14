@@ -2,9 +2,7 @@
   <component name="StringManipulationState">
     <option name="lastAction">
       <UniversalActionModel>
-        <option name="actionClassName" value="osmedile.intellij.stringmanip.filter.RemoveDuplicateLinesAction" />
-        <option name="modelClass" value="osmedile.intellij.stringmanip.filter.RemoveDuplicatesSettings" />
-        <option name="modelData" value="&lt;RemoveDuplicatesSettings&gt;&#10;  &lt;option name=&quot;type&quot; value=&quot;REMOVE_LINE&quot; /&gt;&#10;&lt;/RemoveDuplicatesSettings&gt;" />
+        <option name="actionClassName" value="osmedile.intellij.stringmanip.increment.CreateSequenceAction" />
       </UniversalActionModel>
     </option>
     <option name="sortSettingsMap">

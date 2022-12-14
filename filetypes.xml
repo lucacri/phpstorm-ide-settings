@@ -8,6 +8,7 @@
       <mapping ext="docker" type="Dockerfile" />
       <mapping pattern=".huskyrc" type="JSON" />
       <mapping ext="mdx" type="Markdown" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="phpcron" type="PLAIN_TEXT" />
       <mapping pattern="02-mine" type="PLAIN_TEXT" />
       <mapping pattern="cron" type="PLAIN_TEXT" />
